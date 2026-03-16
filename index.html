@@ -82,6 +82,7 @@ html, body { height: 100%; font-family: var(--font-body); background: var(--bg);
   background: var(--surface);
   height: 100vh;
   overflow: hidden;
+  transition: width 0.25s ease, min-width 0.25s ease;
 }
 
 /* Panel header */
@@ -529,13 +530,20 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
         <div class="dd-wrap">
           <button class="dd-btn" onclick="toggleDD('dd-rarity-d')"><span id="dd-rarity-d-lbl">Rarity</span><span style="font-size:0.55rem">▼</span></button>
           <div class="dd-menu" id="dd-rarity-d">
-            <label class="dd-item"><input type="checkbox" value="CR"  onchange="renderLibrary()"> CR</label>
-            <label class="dd-item"><input type="checkbox" value="GR"  onchange="renderLibrary()"> GR</label>
-            <label class="dd-item"><input type="checkbox" value="RR"  onchange="renderLibrary()"> RR</label>
-            <label class="dd-item"><input type="checkbox" value="SR"  onchange="renderLibrary()"> SR</label>
-            <label class="dd-item"><input type="checkbox" value="U"   onchange="renderLibrary()"> U</label>
-            <label class="dd-item"><input type="checkbox" value="C"   onchange="renderLibrary()"> C</label>
-            <label class="dd-item"><input type="checkbox" value="SPR" onchange="renderLibrary()"> SPR</label>
+            <label class="dd-item"><input type="checkbox" value="CR"   onchange="renderLibrary()"> CR</label>
+            <label class="dd-item"><input type="checkbox" value="GR"   onchange="renderLibrary()"> GR</label>
+            <label class="dd-item"><input type="checkbox" value="SR"   onchange="renderLibrary()"> SR</label>
+            <label class="dd-item"><input type="checkbox" value="U"    onchange="renderLibrary()"> U</label>
+            <label class="dd-item"><input type="checkbox" value="C"    onchange="renderLibrary()"> C</label>
+            <label class="dd-item"><input type="checkbox" value="RR"   onchange="renderLibrary()"> RR</label>
+            <label class="dd-item"><input type="checkbox" value="ER"   onchange="renderLibrary()"> ER</label>
+            <label class="dd-item"><input type="checkbox" value="SPR"  onchange="renderLibrary()"> SPR</label>
+            <label class="dd-item"><input type="checkbox" value="*CR"  onchange="renderLibrary()"> ✦ *CR</label>
+            <label class="dd-item"><input type="checkbox" value="*GR"  onchange="renderLibrary()"> ✦ *GR</label>
+            <label class="dd-item"><input type="checkbox" value="*SR"  onchange="renderLibrary()"> ✦ *SR</label>
+            <label class="dd-item"><input type="checkbox" value="*RR"  onchange="renderLibrary()"> ✦ *RR</label>
+            <label class="dd-item"><input type="checkbox" value="*ER"  onchange="renderLibrary()"> ✦ *ER</label>
+            <label class="dd-item"><input type="checkbox" value="*SPR" onchange="renderLibrary()"> ✦ *SPR</label>
           </div>
         </div>
         <div class="dd-wrap">
@@ -624,6 +632,10 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
   <div id="panel-analysis">
     <div class="panel-hdr">
       <span class="panel-title">📊 Analysis</span>
+      <button id="analysis-collapse-btn" onclick="toggleAnalysisPanel()"
+        style="background:var(--surface2);border:1px solid var(--border2);color:var(--muted);
+        border-radius:6px;padding:3px 9px;font-size:0.75rem;cursor:pointer;flex-shrink:0;"
+        title="Collapse analysis panel">◀</button>
     </div>
     <div class="panel-body" id="analysis-content-d"></div>
   </div>
@@ -668,13 +680,20 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
         <div class="dd-wrap">
           <button class="dd-btn" onclick="toggleDD('dd-rarity-m')"><span id="dd-rarity-m-lbl">Rarity</span><span style="font-size:0.55rem">▼</span></button>
           <div class="dd-menu" id="dd-rarity-m">
-            <label class="dd-item"><input type="checkbox" value="CR"  onchange="renderLibrary()"> CR</label>
-            <label class="dd-item"><input type="checkbox" value="GR"  onchange="renderLibrary()"> GR</label>
-            <label class="dd-item"><input type="checkbox" value="RR"  onchange="renderLibrary()"> RR</label>
-            <label class="dd-item"><input type="checkbox" value="SR"  onchange="renderLibrary()"> SR</label>
-            <label class="dd-item"><input type="checkbox" value="U"   onchange="renderLibrary()"> U</label>
-            <label class="dd-item"><input type="checkbox" value="C"   onchange="renderLibrary()"> C</label>
-            <label class="dd-item"><input type="checkbox" value="SPR" onchange="renderLibrary()"> SPR</label>
+            <label class="dd-item"><input type="checkbox" value="CR"   onchange="renderLibrary()"> CR</label>
+            <label class="dd-item"><input type="checkbox" value="GR"   onchange="renderLibrary()"> GR</label>
+            <label class="dd-item"><input type="checkbox" value="SR"   onchange="renderLibrary()"> SR</label>
+            <label class="dd-item"><input type="checkbox" value="U"    onchange="renderLibrary()"> U</label>
+            <label class="dd-item"><input type="checkbox" value="C"    onchange="renderLibrary()"> C</label>
+            <label class="dd-item"><input type="checkbox" value="RR"   onchange="renderLibrary()"> RR</label>
+            <label class="dd-item"><input type="checkbox" value="ER"   onchange="renderLibrary()"> ER</label>
+            <label class="dd-item"><input type="checkbox" value="SPR"  onchange="renderLibrary()"> SPR</label>
+            <label class="dd-item"><input type="checkbox" value="*CR"  onchange="renderLibrary()"> ✦ *CR</label>
+            <label class="dd-item"><input type="checkbox" value="*GR"  onchange="renderLibrary()"> ✦ *GR</label>
+            <label class="dd-item"><input type="checkbox" value="*SR"  onchange="renderLibrary()"> ✦ *SR</label>
+            <label class="dd-item"><input type="checkbox" value="*RR"  onchange="renderLibrary()"> ✦ *RR</label>
+            <label class="dd-item"><input type="checkbox" value="*ER"  onchange="renderLibrary()"> ✦ *ER</label>
+            <label class="dd-item"><input type="checkbox" value="*SPR" onchange="renderLibrary()"> ✦ *SPR</label>
           </div>
         </div>
         <div class="dd-wrap">
@@ -809,7 +828,17 @@ function typePill(t) {
   return {Character:'tp-ch',Event:'tp-ev','Main Character':'tp-mc',Scene:'tp-sc',Story:'tp-st',Item:'tp-it'}[t]||'tp-ch';
 }
 
-const RARITY_RANK = {CR:0,GR:1,RR:2,SR:3,U:4,C:5,SPR:6,ER:7};
+const RARITY_RANK = {
+  'CR':0,'GR':1,'SR':2,'U':3,'C':4,'RR':5,'ER':6,'SPR':7,
+  '*CR':8,'*GR':9,'*SR':10,'*RR':11,'*ER':12,'*SPR':13,
+};
+// Full rarity names
+const RARITY_NAME = {
+  'CR':'Colorful Rare','GR':'Gold Rare','SR':'Silver Rare',
+  'U':'Uncommon','C':'Common','RR':'Ruby Rare','ER':'Emerald Rare','SPR':'Sapphire Rare',
+  '*CR':'Shining Colorful Rare','*GR':'Shining Gold Rare','*SR':'Shining Silver Rare',
+  '*RR':'Shining Ruby Rare','*ER':'Shining Emerald Rare','*SPR':'Shining Sapphire Rare',
+};
 const COLOR_ICON  = {Purple:'🌟',Indigo:'💎',Yellow:'🦋',Pink:'🎈',Orange:'🍎',Blue:'⚡',White:'⬜'};
 const COLOR_HEX   = {Purple:'#a78bfa',Indigo:'#6366f1',Yellow:'#eab308',Pink:'#ec4899',Orange:'#f97316',Blue:'#3b82f6',White:'#cbd5e1'};
 
@@ -907,9 +936,8 @@ function sortLibCards(cards) {
   });
 }
 function sortMainCards(cards) {
-  const order={CR:0,GR:1,RR:2,SR:3,U:4,C:5,SPR:6,ER:7};
   return [...cards].sort((a,b)=>{
-    const ro=(order[a.rarity]??99)-(order[b.rarity]??99);
+    const ro=(RARITY_RANK[a.rarity]??99)-(RARITY_RANK[b.rarity]??99);
     if(ro!==0) return ro;
     return getCardNum(a.id)-getCardNum(b.id);
   });
@@ -1367,7 +1395,7 @@ function openZoom(card) {
   $('zm-name').innerHTML=`${card.name}<div style="font-family:var(--font-body);font-size:0.62rem;color:var(--dim);margin-top:2px">${card.id}</div>`;
   let meta='';
   if(card.type)   meta+=`<span class="type-pill ${typePill(card.type)}" style="font-size:0.7rem;padding:3px 9px">${card.type}</span>`;
-  if(card.rarity) meta+=`<span style="background:${rc}22;color:${rc};border:1px solid ${rc}44;border-radius:6px;padding:3px 9px;font-size:0.7rem;font-weight:800">${card.rarity}</span>`;
+  if(card.rarity) meta+=`<span style="background:${rc}22;color:${rc};border:1px solid ${rc}44;border-radius:6px;padding:3px 9px;font-size:0.7rem;font-weight:800" title="${RARITY_NAME[card.rarity]||card.rarity}">${card.rarity}</span>`;
   if(card.color){const ch=COLOR_HEX[card.color]||'#9ca3af'; meta+=`<span style="background:${ch}22;color:${ch};border:1px solid ${ch}33;border-radius:6px;padding:3px 9px;font-size:0.7rem;font-weight:700">${COLOR_ICON[card.color]||''} ${card.color}</span>`;}
   if(card.deck)   meta+=`<span style="background:var(--surface2);color:var(--dim);border-radius:6px;padding:3px 9px;font-size:0.68rem">${card.deck}</span>`;
   $('zm-meta').innerHTML=meta;
@@ -1384,6 +1412,27 @@ document.addEventListener('keydown',e=>{ if(e.key==='Escape'){closeZoom();closeE
 // ═══════════════════════════════════════════════════════
 // IMPORT BAR TOGGLE
 // ═══════════════════════════════════════════════════════
+function toggleAnalysisPanel() {
+  const panel = document.getElementById('panel-analysis');
+  const btn   = document.getElementById('analysis-collapse-btn');
+  if (!panel) return;
+  const isOpen = panel.style.width !== '0px';
+  if (isOpen) {
+    panel.style.width    = '0px';
+    panel.style.minWidth = '0px';
+    panel.style.overflow = 'hidden';
+    panel.style.borderLeft = 'none';
+    if (btn) btn.textContent = '▶';
+  } else {
+    panel.style.width    = '';
+    panel.style.minWidth = '';
+    panel.style.overflow = '';
+    panel.style.borderLeft = '';
+    if (btn) btn.textContent = '◀';
+    renderAnalysis();
+  }
+}
+
 function toggleImportBar() {
   const open=!$('imp-btns').classList.contains('open');
   ['imp-btns','imp-btns-m'].forEach(id=>{const el=$(id);if(el)el.classList.toggle('open',open);});
@@ -1548,7 +1597,12 @@ function colorChart(title,dist){
   }).join('');
   return acWrap('color-'+title.replace(/\s+/g,''),title,rows);
 }
-function rarityColors(){return{CR:'#a78bfa',GR:'#fbbf24',RR:'#f472b6',SR:'#34d399',U:'#60a5fa',C:'#9ca3af',SPR:'#fb923c',ER:'#38bdf8'};}
+function rarityColors(){return{
+  CR:'#a78bfa',GR:'#fbbf24',SR:'#34d399',U:'#60a5fa',C:'#9ca3af',
+  RR:'#f472b6',ER:'#38bdf8',SPR:'#fb923c',
+  '*CR':'#d4a0ff','*GR':'#ffe066','*SR':'#6effc2',
+  '*RR':'#ff9de2','*ER':'#7ee8ff','*SPR':'#ffc57a',
+};}
 function typeColors(){return{Character:'#a78bfa',Event:'#fb923c',Item:'#34d399',Scene:'#38bdf8','Main Character':'#ec4899',Story:'#f59e0b'};}
 function raceColors(){return{Unicorn:'#a78bfa',Pegasus:'#38bdf8','Earth Pony':'#f97316',Alicorn:'#fbbf24'};}
 function subtypeNameChart(title,items,total){
@@ -1583,7 +1637,7 @@ function renderAnalysis() {
   const RACES=new Set(['Earth Pony','Pegasus','Unicorn','Alicorn']);
   const raceDist={},nameDist={};
   flat.forEach(c=>{(c.subtype||[]).forEach(s=>{if(RACES.has(s))raceDist[s]=(raceDist[s]||0)+1;else nameDist[s]=(nameDist[s]||0)+1;});});
-  const rarityOrder=['CR','GR','RR','SR','U','C','SPR'];
+  const rarityOrder=['CR','GR','SR','U','C','RR','ER','SPR','*CR','*GR','*SR','*RR','*ER','*SPR'];
   const raceItems=Object.entries(raceDist).sort((a,b)=>b[1]-a[1]).map(([label,val])=>({label,val}));
   const nameItems=Object.entries(nameDist).sort((a,b)=>b[1]-a[1]).map(([label,val])=>({label,val}));
   const html=`
