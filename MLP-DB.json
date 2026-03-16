@@ -82,7 +82,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": 1,
     "power": 2,
     "rarity": "C",
@@ -217,7 +217,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": 2,
     "power": 4,
     "rarity": "CR",
@@ -301,7 +301,7 @@
     "subtype": [
       "Everyday"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": null,
     "power": null,
     "rarity": "ER",
@@ -391,7 +391,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": 5,
     "power": 5,
     "rarity": "GR",
@@ -414,21 +414,6 @@
     "ability": "(Rainbow Rare art card — no game text)"
   },
   {
-    "id": "SD01-RR02",
-    "name": "Fluttershy",
-    "type": "Main Character",
-    "subtype": [
-      "Pegasus",
-      "Fluttershy"
-    ],
-    "color": "Yellow",
-    "cost": null,
-    "power": null,
-    "rarity": "RR",
-    "deck": "SD01B",
-    "ability": "(Rainbow Rare art card — no game text)"
-  },
-  {
     "id": "SD01-RR03",
     "name": "Pinkie Pie",
     "type": "Main Character",
@@ -441,21 +426,6 @@
     "power": null,
     "rarity": "RR",
     "deck": "SD01",
-    "ability": "(Rainbow Rare art card — no game text)"
-  },
-  {
-    "id": "SD01-RR04",
-    "name": "Applejack",
-    "type": "Main Character",
-    "subtype": [
-      "Earth Pony",
-      "Applejack"
-    ],
-    "color": "Orange",
-    "cost": null,
-    "power": null,
-    "rarity": "RR",
-    "deck": "SD01D",
     "ability": "(Rainbow Rare art card — no game text)"
   },
   {
@@ -481,7 +451,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": null,
     "power": null,
     "rarity": "RR",
@@ -691,7 +661,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": 6,
     "power": 7,
     "rarity": "SR",
@@ -781,7 +751,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "Purple",
+    "color": "Indigo",
     "cost": 2,
     "power": 3,
     "rarity": "U",
@@ -1356,6 +1326,298 @@
     "ability": "[Adventure] While there is any 「Fluttershy」 in your Adventure Area, this Character gets +2 Inspiration in Rival's turn."
   },
   {
+    "id": "SD01-RR02",
+    "name": "Fluttershy",
+    "type": "Main Character",
+    "subtype": [
+      "Pegasus",
+      "Fluttershy"
+    ],
+    "color": "Yellow",
+    "cost": null,
+    "power": null,
+    "rarity": "RR",
+    "deck": "SD01B",
+    "ability": "(Rainbow Rare art card — no game text)"
+  },
+  {
+    "id": "SD01C-C01",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 2,
+    "power": 3,
+    "rarity": "C",
+    "deck": "SD01C",
+    "ability": "[Adventure] At the end of your turn, if there is any [Gummy] in your Adventure Area, draw 1 card."
+  },
+  {
+    "id": "SD01C-C02",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 6,
+    "power": 8,
+    "rarity": "C",
+    "deck": "SD01C",
+    "ability": ""
+  },
+  {
+    "id": "SD01C-C03",
+    "name": "Mrs.Cake",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Mrs.Cake"
+    ],
+    "color": "Pink",
+    "cost": 4,
+    "power": 6,
+    "rarity": "C",
+    "deck": "SD01C",
+    "ability": ""
+  },
+  {
+    "id": "SD01C-C04",
+    "name": "Gummy",
+    "type": "Character",
+    "subtype": [
+      "Crocodile",
+      "Gummy",
+      "Pet"
+    ],
+    "color": "Pink",
+    "cost": 3,
+    "power": 5,
+    "rarity": "C",
+    "deck": "SD01C",
+    "ability": ""
+  },
+  {
+    "id": "SD01C-C05",
+    "name": "Gummy",
+    "type": "Character",
+    "subtype": [
+      "Crocodile",
+      "Gummy",
+      "Pet"
+    ],
+    "color": "Pink",
+    "cost": 1,
+    "power": 2,
+    "rarity": "C",
+    "deck": "SD01C",
+    "ability": ""
+  },
+  {
+    "id": "SD01C-C06",
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "subtype": [],
+    "color": "Pink",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01C",
+    "story_title": "Feeling Pinkie Keen",
+    "story_subtitle": "The Prediction",
+    "story_stage": "I",
+    "ability": "When promoted to this stage, draw 1 card."
+  },
+  {
+    "id": "SD01C-C07",
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "subtype": [],
+    "color": "Pink",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01C",
+    "story_title": "Feeling Pinkie Keen",
+    "story_subtitle": "The Giant Hydra",
+    "story_stage": "II",
+    "ability": "When promoted to this stage, choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01C-C08",
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "subtype": [],
+    "color": "Pink",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01C",
+    "story_title": "Feeling Pinkie Keen",
+    "story_subtitle": "Crisis Averted",
+    "story_stage": "III",
+    "ability": "When promoted to this stage, choose 1 Event in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01C-C09",
+    "name": "Feeling Pinkie Keen",
+    "type": "Story",
+    "subtype": [],
+    "color": "Pink",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01C",
+    "story_title": "Feeling Pinkie Keen",
+    "story_subtitle": "The Real Doozy",
+    "story_stage": "IV",
+    "ability": "When promoted to this stage, you win the game."
+  },
+  {
+    "id": "SD01C-SPR01",
+    "name": "Blue Curse",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01C",
+    "ability": "Draw 2 cards, discard 1 card."
+  },
+  {
+    "id": "SD01C-SPR02",
+    "name": "Instrument Set",
+    "type": "Item",
+    "subtype": [],
+    "color": "White",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01C",
+    "ability": "While in your turn, adorned Character gets +1 Inspiration."
+  },
+  {
+    "id": "SD01C-SPR03",
+    "name": "Head Umbrella",
+    "type": "Item",
+    "subtype": [],
+    "color": "White",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01C",
+    "ability": "While in Rival's turn, adorned Character gets +2 Inspiration."
+  },
+  {
+    "id": "SD01C-SPR04",
+    "name": "Pinkie's Flying Balloon",
+    "type": "Item",
+    "subtype": [],
+    "color": "White",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01C",
+    "ability": "Only adorn [Pinkie Pie]. Adorned Character gets +1 Inspiration."
+  },
+  {
+    "id": "SD01C-SR01",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 2,
+    "power": 3,
+    "rarity": "SR",
+    "deck": "SD01C",
+    "ability": "[Adventure] While there is any Character adorned with Item in your Adventure Area, this Character gets +2 Inspiration."
+  },
+  {
+    "id": "SD01C-SR02",
+    "name": "Gummy",
+    "type": "Character",
+    "subtype": [
+      "Crocodile",
+      "Gummy",
+      "Pet"
+    ],
+    "color": "Pink",
+    "cost": 1,
+    "power": 1,
+    "rarity": "SR",
+    "deck": "SD01C",
+    "ability": "[Farewell] Draw 1 card, discard 1 card."
+  },
+  {
+    "id": "SD01C-U01",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 2,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01C",
+    "ability": ""
+  },
+  {
+    "id": "SD01C-U02",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 3,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01C",
+    "ability": "[Adventure] While there is any Item in your Retirement Area, this Character gets +2 Inspiration in your turn."
+  },
+  {
+    "id": "SD01C-U03",
+    "name": "Mrs.Cake",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Mrs.Cake"
+    ],
+    "color": "Pink",
+    "cost": 4,
+    "power": 5,
+    "rarity": "U",
+    "deck": "SD01C",
+    "ability": "[Appear] Choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01C-U04",
+    "name": "Gummy",
+    "type": "Character",
+    "subtype": [
+      "Crocodile",
+      "Gummy",
+      "Pet"
+    ],
+    "color": "Pink",
+    "cost": 3,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01C",
+    "ability": "[Adventure] While in your turn, this Character gets +2 Inspiration."
+  },
+  {
     "id": "SD01D-C01",
     "name": "Applejack",
     "type": "Character",
@@ -1630,5 +1892,572 @@
     "rarity": "U",
     "deck": "SD01D",
     "ability": "[Adventure] [Tap] Choose 1 Scene in your Scene Area, untap it."
+  },
+  {
+    "id": "SD01-RR04",
+    "name": "Applejack",
+    "type": "Main Character",
+    "subtype": [
+      "Earth Pony",
+      "Applejack"
+    ],
+    "color": "Orange",
+    "cost": null,
+    "power": null,
+    "rarity": "RR",
+    "deck": "SD01D",
+    "ability": "(Rainbow Rare art card — no game text)"
+  },
+  {
+    "id": "SD01E-C01",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 1,
+    "power": 1,
+    "rarity": "C",
+    "deck": "SD01E",
+    "ability": "[Appear] This Character gets +2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01E-C02",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 4,
+    "power": 6,
+    "rarity": "C",
+    "deck": "SD01E",
+    "ability": ""
+  },
+  {
+    "id": "SD01E-C03",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 2,
+    "power": 4,
+    "rarity": "C",
+    "deck": "SD01E",
+    "ability": ""
+  },
+  {
+    "id": "SD01E-C04",
+    "name": "Scootaloo",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Scootaloo"
+    ],
+    "color": "Blue",
+    "cost": 3,
+    "power": 5,
+    "rarity": "C",
+    "deck": "SD01E",
+    "ability": ""
+  },
+  {
+    "id": "SD01E-C05",
+    "name": "Tank",
+    "type": "Character",
+    "subtype": [
+      "Turtle",
+      "Tank",
+      "Pet"
+    ],
+    "color": "Blue",
+    "cost": 1,
+    "power": 2,
+    "rarity": "C",
+    "deck": "SD01E",
+    "ability": ""
+  },
+  {
+    "id": "SD01E-C06",
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "subtype": [],
+    "color": "Blue",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01E",
+    "story_title": "The Best Young Flyer",
+    "story_subtitle": "Anxious Rainbow Dash",
+    "story_stage": "I",
+    "ability": "When promoted to this stage, draw 1 card."
+  },
+  {
+    "id": "SD01E-C07",
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "subtype": [],
+    "color": "Blue",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01E",
+    "story_title": "The Best Young Flyer",
+    "story_subtitle": "Sonic RainBoom",
+    "story_stage": "II",
+    "ability": "When promoted to this stage, choose 1 [Rainbow Dash] in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01E-C08",
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "subtype": [],
+    "color": "Blue",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01E",
+    "story_title": "The Best Young Flyer",
+    "story_subtitle": "The Competition",
+    "story_stage": "III",
+    "ability": "When promoted to this stage, choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire."
+  },
+  {
+    "id": "SD01E-C09",
+    "name": "The Best Young Flyer",
+    "type": "Story",
+    "subtype": [],
+    "color": "Blue",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01E",
+    "story_title": "The Best Young Flyer",
+    "story_subtitle": "Grand Prize",
+    "story_stage": "IV",
+    "ability": "When promoted to this stage, you win the game."
+  },
+  {
+    "id": "SD01E-SPR01",
+    "name": "Hoofshake Buzzer!",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01E",
+    "ability": "Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01E-SPR02",
+    "name": "Rushing Rescue",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01E",
+    "ability": "Draw 1 card, choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01E-SPR03",
+    "name": "Training Accident",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01E",
+    "ability": "Choose 1 Character with Inspiration 3 or less in Rival's Adventure Area to Retire."
+  },
+  {
+    "id": "SD01E-SPR04",
+    "name": "Prank Sneeze Powder",
+    "type": "Item",
+    "subtype": [],
+    "color": "White",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01E",
+    "ability": "While in your turn, adorned Character gets +2 Inspiration."
+  },
+  {
+    "id": "SD01E-SR01",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 4,
+    "power": 5,
+    "rarity": "SR",
+    "deck": "SD01E",
+    "ability": "[Appear] If there is any [Tank] in your Adventure Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire."
+  },
+  {
+    "id": "SD01E-SR02",
+    "name": "Tank",
+    "type": "Character",
+    "subtype": [
+      "Turtle",
+      "Tank",
+      "Pet"
+    ],
+    "color": "Blue",
+    "cost": 2,
+    "power": 3,
+    "rarity": "SR",
+    "deck": "SD01E",
+    "ability": "[Adventure] Tap, choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01E-U01",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 2,
+    "power": 3,
+    "rarity": "U",
+    "deck": "SD01E",
+    "ability": "[Adventure] When this Character Intervenes the Plan, draw 1 card."
+  },
+  {
+    "id": "SD01E-U02",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 3,
+    "power": 5,
+    "rarity": "U",
+    "deck": "SD01E",
+    "ability": ""
+  },
+  {
+    "id": "SD01E-U03",
+    "name": "Scootaloo",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Scootaloo"
+    ],
+    "color": "Blue",
+    "cost": 2,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01E",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 1 or less in Rival's Adventure Area to Retire."
+  },
+  {
+    "id": "SD01E-U04",
+    "name": "Tank",
+    "type": "Character",
+    "subtype": [
+      "Turtle",
+      "Tank",
+      "Pet"
+    ],
+    "color": "Blue",
+    "cost": 3,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01E",
+    "ability": "[Appear] Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01F-C01",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 4,
+    "power": 5,
+    "rarity": "C",
+    "deck": "SD01F",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire."
+  },
+  {
+    "id": "SD01F-C02",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 5,
+    "power": 7,
+    "rarity": "C",
+    "deck": "SD01F",
+    "ability": ""
+  },
+  {
+    "id": "SD01F-C03",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 1,
+    "power": 2,
+    "rarity": "C",
+    "deck": "SD01F",
+    "ability": ""
+  },
+  {
+    "id": "SD01F-C04",
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Sweetie Belle"
+    ],
+    "color": "Indigo",
+    "cost": 1,
+    "power": 2,
+    "rarity": "C",
+    "deck": "SD01F",
+    "ability": ""
+  },
+  {
+    "id": "SD01F-C05",
+    "name": "Opal",
+    "type": "Character",
+    "subtype": [
+      "Cat",
+      "Opal",
+      "Pet"
+    ],
+    "color": "Indigo",
+    "cost": 2,
+    "power": 4,
+    "rarity": "C",
+    "deck": "SD01F",
+    "ability": ""
+  },
+  {
+    "id": "SD01F-C06",
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "subtype": [],
+    "color": "Indigo",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01F",
+    "story_title": "A Dog and Pony Show",
+    "story_subtitle": "Hunt for Gems",
+    "story_stage": "I",
+    "ability": "When promoted to this stage, draw 1 card."
+  },
+  {
+    "id": "SD01F-C07",
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "subtype": [],
+    "color": "Indigo",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01F",
+    "story_title": "A Dog and Pony Show",
+    "story_subtitle": "Rarity Gets Ponynapped",
+    "story_stage": "II",
+    "ability": "When promoted to this stage, all [Rarity] in your Adventure Area get +1 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01F-C08",
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "subtype": [],
+    "color": "Indigo",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01F",
+    "story_title": "A Dog and Pony Show",
+    "story_subtitle": "Outwitting the Hounds",
+    "story_stage": "III",
+    "ability": "When promoted to this stage, choose 1 [Rarity] in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01F-C09",
+    "name": "A Dog and Pony Show",
+    "type": "Story",
+    "subtype": [],
+    "color": "Indigo",
+    "cost": null,
+    "power": null,
+    "rarity": "C",
+    "deck": "SD01F",
+    "story_title": "A Dog and Pony Show",
+    "story_subtitle": "Back with Full Load",
+    "story_stage": "IV",
+    "ability": "When promoted to this stage, you win the game."
+  },
+  {
+    "id": "SD01F-SPR01",
+    "name": "Tailor-made",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01F",
+    "ability": "Choose 1 [Rarity] with Inspiration 3 or less in your Adventure Area, it won't Retire in Contact until the end of turn."
+  },
+  {
+    "id": "SD01F-SPR02",
+    "name": "Dress for Competition",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01F",
+    "ability": "Only use when there is any [Rarity] in your Adventure Area. Draw 1 card."
+  },
+  {
+    "id": "SD01F-SPR03",
+    "name": "Steam Therapy",
+    "type": "Event",
+    "subtype": [],
+    "color": "White",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01F",
+    "ability": "Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01F-SPR04",
+    "name": "Dress Form",
+    "type": "Item",
+    "subtype": [],
+    "color": "White",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "SD01F",
+    "ability": "While in Rival's turn, adorned Character gets +1 Inspiration."
+  },
+  {
+    "id": "SD01F-SR01",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 3,
+    "power": 4,
+    "rarity": "SR",
+    "deck": "SD01F",
+    "ability": "[Farewell] Choose 1 Event or Item in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01F-SR02",
+    "name": "Opal",
+    "type": "Character",
+    "subtype": [
+      "Cat",
+      "Opal",
+      "Pet"
+    ],
+    "color": "Indigo",
+    "cost": 3,
+    "power": 4,
+    "rarity": "SR",
+    "deck": "SD01F",
+    "ability": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn."
+  },
+  {
+    "id": "SD01F-U01",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 2,
+    "power": 3,
+    "rarity": "U",
+    "deck": "SD01F",
+    "ability": "[Farewell] Draw 1 card."
+  },
+  {
+    "id": "SD01F-U02",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 4,
+    "power": 6,
+    "rarity": "U",
+    "deck": "SD01F",
+    "ability": ""
+  },
+  {
+    "id": "SD01F-U03",
+    "name": "Sweetie Belle",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Sweetie Belle"
+    ],
+    "color": "Indigo",
+    "cost": 3,
+    "power": 4,
+    "rarity": "U",
+    "deck": "SD01F",
+    "ability": "[Farewell] Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand."
+  },
+  {
+    "id": "SD01F-U04",
+    "name": "Opal",
+    "type": "Character",
+    "subtype": [
+      "Cat",
+      "Opal",
+      "Pet"
+    ],
+    "color": "Indigo",
+    "cost": 2,
+    "power": 3,
+    "rarity": "U",
+    "deck": "SD01F",
+    "ability": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn."
   }
 ]
