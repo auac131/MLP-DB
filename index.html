@@ -621,15 +621,7 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
         </div>
         <div class="dd-wrap">
           <button class="dd-btn" onclick="toggleDD('dd-set-d')"><span id="dd-set-d-lbl">Set</span><span style="font-size:0.55rem">▼</span></button>
-          <div class="dd-menu" id="dd-set-d">
-            <label class="dd-item"><input type="checkbox" value="SD01"  onchange="renderLibrary()"> SD01</label>
-            <label class="dd-item"><input type="checkbox" value="SD01A" onchange="renderLibrary()"> SD01A</label>
-            <label class="dd-item"><input type="checkbox" value="SD01B" onchange="renderLibrary()"> SD01B</label>
-            <label class="dd-item"><input type="checkbox" value="SD01C" onchange="renderLibrary()"> SD01C</label>
-            <label class="dd-item"><input type="checkbox" value="SD01D" onchange="renderLibrary()"> SD01D</label>
-            <label class="dd-item"><input type="checkbox" value="SD01E" onchange="renderLibrary()"> SD01E</label>
-            <label class="dd-item"><input type="checkbox" value="SD01F" onchange="renderLibrary()"> SD01F</label>
-          </div>
+          <div class="dd-menu" id="dd-set-d"></div>
         </div>
         <button class="sort-btn" id="sort-btn-d" onclick="toggleSort()" title="Toggle sort order">↓</button>
       </div>
@@ -788,15 +780,7 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
         </div>
         <div class="dd-wrap">
           <button class="dd-btn" onclick="toggleDD('dd-set-m')"><span id="dd-set-m-lbl">Set</span><span style="font-size:0.55rem">▼</span></button>
-          <div class="dd-menu" id="dd-set-m">
-            <label class="dd-item"><input type="checkbox" value="SD01"  onchange="renderLibrary()"> SD01</label>
-            <label class="dd-item"><input type="checkbox" value="SD01A" onchange="renderLibrary()"> SD01A</label>
-            <label class="dd-item"><input type="checkbox" value="SD01B" onchange="renderLibrary()"> SD01B</label>
-            <label class="dd-item"><input type="checkbox" value="SD01C" onchange="renderLibrary()"> SD01C</label>
-            <label class="dd-item"><input type="checkbox" value="SD01D" onchange="renderLibrary()"> SD01D</label>
-            <label class="dd-item"><input type="checkbox" value="SD01E" onchange="renderLibrary()"> SD01E</label>
-            <label class="dd-item"><input type="checkbox" value="SD01F" onchange="renderLibrary()"> SD01F</label>
-          </div>
+          <div class="dd-menu" id="dd-set-m"></div>
         </div>
         <button class="sort-btn" id="sort-btn-m" onclick="toggleSort()" title="Toggle sort">↓</button>
       </div>
@@ -1053,9 +1037,34 @@ function parseCardData(data) {
 }
 function applyLibrary(cards, silent=false) {
   state.library = cards;
+  buildSetDropdowns();
   renderLibrary();
   updateSidebar();
   if (!silent) toast(`📚 ${cards.length} cards loaded`,'ok');
+}
+
+function buildSetDropdowns() {
+  // Collect unique deck codes, sorted naturally
+  const sets = [...new Set(state.library.map(c => c.deck).filter(Boolean))].sort((a,b) => {
+    // Sort: base sets first (SD01, BP01...) then sub-sets (SD01A...)
+    const base = s => s.replace(/[A-Z]$/, '');
+    const sub  = s => s.match(/[A-Z]$/) ? s.slice(-1) : '';
+    if (base(a) !== base(b)) return a.localeCompare(b);
+    return sub(a).localeCompare(sub(b));
+  });
+
+  ['dd-set-d','dd-set-m'].forEach(id => {
+    const menu = document.getElementById(id);
+    if (!menu) return;
+    // Preserve checked state
+    const checked = new Set([...menu.querySelectorAll('input:checked')].map(el => el.value));
+    menu.innerHTML = sets.map(s =>
+      `<label class="dd-item"><input type="checkbox" value="${s}"${checked.has(s)?' checked':''} onchange="renderLibrary()"> ${s}</label>`
+    ).join('');
+  });
+
+  // Update syncFilters to handle dynamic set options
+  updateFilterLabels();
 }
 
 // ═══════════════════════════════════════════════════════
