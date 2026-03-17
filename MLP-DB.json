@@ -1360,7 +1360,7 @@
   {
     "id": "BP01-RR01",
     "name": "Twilight Sparkle",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -1376,7 +1376,7 @@
   {
     "id": "BP01-RR02",
     "name": "Fluttershy",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -1392,7 +1392,7 @@
   {
     "id": "BP01-RR03",
     "name": "Pinkie Pie",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -1408,7 +1408,7 @@
   {
     "id": "BP01-RR04",
     "name": "Applejack",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -1424,7 +1424,7 @@
   {
     "id": "BP01-RR05",
     "name": "Rainbow Dash",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -1440,7 +1440,7 @@
   {
     "id": "BP01-RR06",
     "name": "Rarity",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Rarity"
@@ -2290,7 +2290,7 @@
     "deck": "SD01",
     "ability": "Inspo Boost Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "story_stage": null
-  }, 
+  },
   {
     "id": "SD01-C01",
     "name": "Twilight Sparkle",
