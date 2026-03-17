@@ -130,7 +130,7 @@
   {
     "id": "BP01-C03",
     "name": "Twilight Sparkle",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -162,7 +162,7 @@
   {
     "id": "BP01-C05",
     "name": "Fluttershy",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -194,7 +194,7 @@
   {
     "id": "BP01-C07",
     "name": "Pinkie Pie",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -210,7 +210,7 @@
   {
     "id": "BP01-C08",
     "name": "Applejack",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -258,7 +258,7 @@
   {
     "id": "BP01-C11",
     "name": "Rainbow Dash",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -290,7 +290,7 @@
   {
     "id": "BP01-C13",
     "name": "Rarity",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Rarity"
@@ -322,7 +322,7 @@
   {
     "id": "BP01-C15",
     "name": "Apple Bloom",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Apple Bloom"
@@ -338,7 +338,7 @@
   {
     "id": "BP01-C16",
     "name": "Sweetie Belle",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Sweetie Belle"
@@ -354,7 +354,7 @@
   {
     "id": "BP01-C17",
     "name": "Scootaloo",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Scootaloo"
@@ -402,7 +402,7 @@
   {
     "id": "BP01-C20",
     "name": "Trixie",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Trixie"
@@ -858,7 +858,7 @@
   {
     "id": "BP01-U02",
     "name": "Twilight Sparkle",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -890,7 +890,7 @@
   {
     "id": "BP01-U04",
     "name": "Fluttershy",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -922,7 +922,7 @@
   {
     "id": "BP01-U06",
     "name": "Pinkie Pie",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -954,7 +954,7 @@
   {
     "id": "BP01-U08",
     "name": "Applejack",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -986,7 +986,7 @@
   {
     "id": "BP01-U10",
     "name": "Rainbow Dash",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -1018,7 +1018,7 @@
   {
     "id": "BP01-U12",
     "name": "Rarity",
-    "type": "Main Character",
+    "type": "Character",
     "subtype": [
       "Unicorn",
       "Rarity"
@@ -1360,7 +1360,7 @@
   {
     "id": "BP01-RR01",
     "name": "Twilight Sparkle",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -1376,7 +1376,7 @@
   {
     "id": "BP01-RR02",
     "name": "Fluttershy",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -1392,7 +1392,7 @@
   {
     "id": "BP01-RR03",
     "name": "Pinkie Pie",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -1408,7 +1408,7 @@
   {
     "id": "BP01-RR04",
     "name": "Applejack",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -1424,7 +1424,7 @@
   {
     "id": "BP01-RR05",
     "name": "Rainbow Dash",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -1440,7 +1440,7 @@
   {
     "id": "BP01-RR06",
     "name": "Rarity",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Rarity"
