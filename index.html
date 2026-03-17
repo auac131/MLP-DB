@@ -402,8 +402,8 @@ html, body { height: 100%; font-family: var(--font-body); background: var(--bg);
 .zoom-inner {
   background:var(--surface); border-top:1px solid var(--border2);
   border-radius:20px 20px 0 0; padding:8px 20px 36px;
-  width:100%; max-width:480px;
-  position:relative; max-height:92vh; overflow-y:auto;
+  width:100%; max-width:600px;
+  position:relative; max-height:94vh; overflow-y:auto;
   box-shadow:0 -12px 48px rgba(0,0,0,0.7);
   animation:slideUp 0.22s ease;
 }
@@ -494,7 +494,7 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
         style="background:var(--surface2);border:1px solid var(--border2);color:var(--muted);
         border-radius:8px;padding:6px 14px;font-size:1rem;cursor:pointer;">▶</button>
     </div>
-    <div id="zm-img" style="width:160px;height:224px;border-radius:12px;overflow:hidden;margin:0 auto 14px;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-size:3rem;box-shadow:0 8px 24px rgba(0,0,0,0.5);"></div>
+    <div id="zm-img" style="width:220px;height:308px;border-radius:14px;overflow:hidden;margin:0 auto 16px;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-size:3rem;box-shadow:0 12px 36px rgba(0,0,0,0.6);"></div>
     <div id="zm-name" style="font-family:var(--font-head);font-size:1.25rem;text-align:center;margin-bottom:8px;line-height:1.3;"></div>
     <div id="zm-meta" style="display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-bottom:10px;"></div>
     <div id="zm-stats" style="display:flex;justify-content:center;margin-bottom:12px;background:var(--surface2);border-radius:10px;overflow:hidden;"></div>
@@ -556,15 +556,36 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
           </div>
         </div>
         <div class="dd-wrap">
-          <button class="dd-btn" onclick="toggleDD('dd-color-d')"><span id="dd-color-d-lbl">Color</span><span style="font-size:0.55rem">▼</span></button>
-          <div class="dd-menu" id="dd-color-d">
-            <label class="dd-item"><input type="checkbox" value="Purple" onchange="renderLibrary()"> 🌟 Purple</label>
-            <label class="dd-item"><input type="checkbox" value="Indigo" onchange="renderLibrary()"> 💎 Indigo</label>
-            <label class="dd-item"><input type="checkbox" value="Yellow" onchange="renderLibrary()"> 🦋 Yellow</label>
-            <label class="dd-item"><input type="checkbox" value="Pink"   onchange="renderLibrary()"> 🎈 Pink</label>
-            <label class="dd-item"><input type="checkbox" value="Orange" onchange="renderLibrary()"> 🍎 Orange</label>
-            <label class="dd-item"><input type="checkbox" value="Blue"   onchange="renderLibrary()"> ⚡ Blue</label>
-            <label class="dd-item"><input type="checkbox" value="White"  onchange="renderLibrary()"> ⬜ White</label>
+          <button class="dd-btn" onclick="toggleDD('dd-kw-d')"><span id="dd-kw-d-lbl">Keyword</span><span style="font-size:0.55rem">▼</span></button>
+          <div class="dd-menu" id="dd-kw-d">
+            <label class="dd-item"><input type="checkbox" value="Alicorn" onchange="renderLibrary()"> Alicorn</label>
+            <label class="dd-item"><input type="checkbox" value="Angel" onchange="renderLibrary()"> Angel</label>
+            <label class="dd-item"><input type="checkbox" value="Apple Bloom" onchange="renderLibrary()"> Apple Bloom</label>
+            <label class="dd-item"><input type="checkbox" value="Applejack" onchange="renderLibrary()"> Applejack</label>
+            <label class="dd-item"><input type="checkbox" value="Big McIntosh" onchange="renderLibrary()"> Big McIntosh</label>
+            <label class="dd-item"><input type="checkbox" value="Cat" onchange="renderLibrary()"> Cat</label>
+            <label class="dd-item"><input type="checkbox" value="Crocodile" onchange="renderLibrary()"> Crocodile</label>
+            <label class="dd-item"><input type="checkbox" value="Dog" onchange="renderLibrary()"> Dog</label>
+            <label class="dd-item"><input type="checkbox" value="Dragon" onchange="renderLibrary()"> Dragon</label>
+            <label class="dd-item"><input type="checkbox" value="Earth Pony" onchange="renderLibrary()"> Earth Pony</label>
+            <label class="dd-item"><input type="checkbox" value="Everyday" onchange="renderLibrary()"> Everyday</label>
+            <label class="dd-item"><input type="checkbox" value="Fluttershy" onchange="renderLibrary()"> Fluttershy</label>
+            <label class="dd-item"><input type="checkbox" value="Gummy" onchange="renderLibrary()"> Gummy</label>
+            <label class="dd-item"><input type="checkbox" value="Mrs.Cake" onchange="renderLibrary()"> Mrs.Cake</label>
+            <label class="dd-item"><input type="checkbox" value="Opal" onchange="renderLibrary()"> Opal</label>
+            <label class="dd-item"><input type="checkbox" value="Owl" onchange="renderLibrary()"> Owl</label>
+            <label class="dd-item"><input type="checkbox" value="Owlowiscious" onchange="renderLibrary()"> Owlowiscious</label>
+            <label class="dd-item"><input type="checkbox" value="Pegasus" onchange="renderLibrary()"> Pegasus</label>
+            <label class="dd-item"><input type="checkbox" value="Pet" onchange="renderLibrary()"> Pet</label>
+            <label class="dd-item"><input type="checkbox" value="Philomena" onchange="renderLibrary()"> Philomena</label>
+            <label class="dd-item"><input type="checkbox" value="Phoenix" onchange="renderLibrary()"> Phoenix</label>
+            <label class="dd-item"><input type="checkbox" value="Pinkie Pie" onchange="renderLibrary()"> Pinkie Pie</label>
+            <label class="dd-item"><input type="checkbox" value="Rabbit" onchange="renderLibrary()"> Rabbit</label>
+            <label class="dd-item"><input type="checkbox" value="Rainbow Dash" onchange="renderLibrary()"> Rainbow Dash</label>
+            <label class="dd-item"><input type="checkbox" value="Rarity" onchange="renderLibrary()"> Rarity</label>
+            <label class="dd-item"><input type="checkbox" value="Spike" onchange="renderLibrary()"> Spike</label>
+            <label class="dd-item"><input type="checkbox" value="Twilight Sparkle" onchange="renderLibrary()"> Twilight Sparkle</label>
+            <label class="dd-item"><input type="checkbox" value="Unicorn" onchange="renderLibrary()"> Unicorn</label>
           </div>
         </div>
         <div class="dd-wrap">
@@ -702,15 +723,36 @@ textarea { width:100%; background:var(--surface2); border:1px solid var(--border
           </div>
         </div>
         <div class="dd-wrap">
-          <button class="dd-btn" onclick="toggleDD('dd-color-m')"><span id="dd-color-m-lbl">Color</span><span style="font-size:0.55rem">▼</span></button>
-          <div class="dd-menu" id="dd-color-m">
-            <label class="dd-item"><input type="checkbox" value="Purple" onchange="renderLibrary()"> 🌟 Purple</label>
-            <label class="dd-item"><input type="checkbox" value="Indigo" onchange="renderLibrary()"> 💎 Indigo</label>
-            <label class="dd-item"><input type="checkbox" value="Yellow" onchange="renderLibrary()"> 🦋 Yellow</label>
-            <label class="dd-item"><input type="checkbox" value="Pink"   onchange="renderLibrary()"> 🎈 Pink</label>
-            <label class="dd-item"><input type="checkbox" value="Orange" onchange="renderLibrary()"> 🍎 Orange</label>
-            <label class="dd-item"><input type="checkbox" value="Blue"   onchange="renderLibrary()"> ⚡ Blue</label>
-            <label class="dd-item"><input type="checkbox" value="White"  onchange="renderLibrary()"> ⬜ White</label>
+          <button class="dd-btn" onclick="toggleDD('dd-kw-m')"><span id="dd-kw-m-lbl">Keyword</span><span style="font-size:0.55rem">▼</span></button>
+          <div class="dd-menu" id="dd-kw-m">
+            <label class="dd-item"><input type="checkbox" value="Alicorn" onchange="renderLibrary()"> Alicorn</label>
+            <label class="dd-item"><input type="checkbox" value="Angel" onchange="renderLibrary()"> Angel</label>
+            <label class="dd-item"><input type="checkbox" value="Apple Bloom" onchange="renderLibrary()"> Apple Bloom</label>
+            <label class="dd-item"><input type="checkbox" value="Applejack" onchange="renderLibrary()"> Applejack</label>
+            <label class="dd-item"><input type="checkbox" value="Big McIntosh" onchange="renderLibrary()"> Big McIntosh</label>
+            <label class="dd-item"><input type="checkbox" value="Cat" onchange="renderLibrary()"> Cat</label>
+            <label class="dd-item"><input type="checkbox" value="Crocodile" onchange="renderLibrary()"> Crocodile</label>
+            <label class="dd-item"><input type="checkbox" value="Dog" onchange="renderLibrary()"> Dog</label>
+            <label class="dd-item"><input type="checkbox" value="Dragon" onchange="renderLibrary()"> Dragon</label>
+            <label class="dd-item"><input type="checkbox" value="Earth Pony" onchange="renderLibrary()"> Earth Pony</label>
+            <label class="dd-item"><input type="checkbox" value="Everyday" onchange="renderLibrary()"> Everyday</label>
+            <label class="dd-item"><input type="checkbox" value="Fluttershy" onchange="renderLibrary()"> Fluttershy</label>
+            <label class="dd-item"><input type="checkbox" value="Gummy" onchange="renderLibrary()"> Gummy</label>
+            <label class="dd-item"><input type="checkbox" value="Mrs.Cake" onchange="renderLibrary()"> Mrs.Cake</label>
+            <label class="dd-item"><input type="checkbox" value="Opal" onchange="renderLibrary()"> Opal</label>
+            <label class="dd-item"><input type="checkbox" value="Owl" onchange="renderLibrary()"> Owl</label>
+            <label class="dd-item"><input type="checkbox" value="Owlowiscious" onchange="renderLibrary()"> Owlowiscious</label>
+            <label class="dd-item"><input type="checkbox" value="Pegasus" onchange="renderLibrary()"> Pegasus</label>
+            <label class="dd-item"><input type="checkbox" value="Pet" onchange="renderLibrary()"> Pet</label>
+            <label class="dd-item"><input type="checkbox" value="Philomena" onchange="renderLibrary()"> Philomena</label>
+            <label class="dd-item"><input type="checkbox" value="Phoenix" onchange="renderLibrary()"> Phoenix</label>
+            <label class="dd-item"><input type="checkbox" value="Pinkie Pie" onchange="renderLibrary()"> Pinkie Pie</label>
+            <label class="dd-item"><input type="checkbox" value="Rabbit" onchange="renderLibrary()"> Rabbit</label>
+            <label class="dd-item"><input type="checkbox" value="Rainbow Dash" onchange="renderLibrary()"> Rainbow Dash</label>
+            <label class="dd-item"><input type="checkbox" value="Rarity" onchange="renderLibrary()"> Rarity</label>
+            <label class="dd-item"><input type="checkbox" value="Spike" onchange="renderLibrary()"> Spike</label>
+            <label class="dd-item"><input type="checkbox" value="Twilight Sparkle" onchange="renderLibrary()"> Twilight Sparkle</label>
+            <label class="dd-item"><input type="checkbox" value="Unicorn" onchange="renderLibrary()"> Unicorn</label>
           </div>
         </div>
         <div class="dd-wrap">
@@ -911,7 +953,7 @@ function getCheckedVals(menuId) {
 function syncFilters(changedId) {
   // find pairs d↔m
   const pairs = [
-    ['dd-type-d','dd-type-m'],['dd-color-d','dd-color-m'],
+    ['dd-type-d','dd-type-m'],['dd-kw-d','dd-kw-m'],
     ['dd-rarity-d','dd-rarity-m'],['dd-set-d','dd-set-m']
   ];
   pairs.forEach(([d,m]) => {
@@ -927,7 +969,7 @@ function syncFilters(changedId) {
 function updateFilterLabels() {
   const pairs = [
     {d:'dd-type-d',  m:'dd-type-m',  dl:'dd-type-d-lbl',  ml:'dd-type-m-lbl',  def:'Type'},
-    {d:'dd-color-d', m:'dd-color-m', dl:'dd-color-d-lbl', ml:'dd-color-m-lbl', def:'Color'},
+    {d:'dd-kw-d',    m:'dd-kw-m',    dl:'dd-kw-d-lbl',    ml:'dd-kw-m-lbl',    def:'Keyword'},
     {d:'dd-rarity-d',m:'dd-rarity-m',dl:'dd-rarity-d-lbl',ml:'dd-rarity-m-lbl',def:'Rarity'},
     {d:'dd-set-d',   m:'dd-set-m',   dl:'dd-set-d-lbl',   ml:'dd-set-m-lbl',   def:'Set'},
   ];
@@ -1010,13 +1052,13 @@ function applyLibrary(cards, silent=false) {
 function renderLibrary() {
   const search = (($('lib-search-d')||{}).value||($('lib-search-m')||{}).value||'').toLowerCase();
   const types    = getCheckedVals('dd-type-d');
-  const colors   = getCheckedVals('dd-color-d');
+  const keywords = getCheckedVals('dd-kw-d');
   const rarities = getCheckedVals('dd-rarity-d');
   const sets     = getCheckedVals('dd-set-d');
 
   let cards = state.library;
   if (types.length)    cards = cards.filter(c=>types.includes(c.type));
-  if (colors.length)   cards = cards.filter(c=>colors.includes(c.color));
+  if (keywords.length) cards = cards.filter(c=>(c.subtype||[]).some(s=>keywords.includes(s)));
   if (rarities.length) cards = cards.filter(c=>rarities.includes(c.rarity));
   if (sets.length)     cards = cards.filter(c=>sets.includes(c.deck));
   if (search)          cards = cards.filter(c=>c.name.toLowerCase().includes(search)||c.id.toLowerCase().includes(search));
@@ -1098,10 +1140,6 @@ function addCard(card) {
   const type=card.type;
   if (type==='Main Character') {
     if (state.mc) { toast('⚠ Already have a Main Character','warn'); return; }
-    if (card.color&&card.color!=='White') {
-      const mc=getDeckMainColor();
-      if (mc&&mc!==card.color) { toast(`${COLOR_ICON[mc]||'🎨'} Main color is ${mc} — MC must match`,'warn'); return; }
-    }
     state.mc={...card}; renderMC(); updateSidebar(); toast(`⭐ ${card.name}`,'ok'); return;
   }
   if (type==='Scene') {
@@ -1114,11 +1152,6 @@ function addCard(card) {
     if (idx===undefined) { toast('⚠ Invalid story stage','warn'); return; }
     if (state.story[idx]) { toast(`⚠ Tier ${card.story_stage} already filled`,'warn'); return; }
     state.story[idx]={...card}; renderStory(); updateSidebar(); toast(`📖 ${card.name}`,'ok'); return;
-  }
-  // Color lock
-  if (card.color&&card.color!=='White') {
-    const mc=getDeckMainColor();
-    if (mc&&mc!==card.color) { toast(`${COLOR_ICON[mc]||'🎨'} Main color is ${mc} — only ${mc} + White allowed`,'warn'); return; }
   }
   const ex=state.main.find(c=>c.id===card.id);
   if (ex) { if(ex.qty>=4){toast('⚠ Max 4 copies','warn');return;} ex.qty++; }
@@ -1243,11 +1276,49 @@ function renderScene() {
   });
 }
 
+
+// Story sets mapping
+const STORY_SETS = {
+  'SD01A':'Searching for Elements of Harmony',
+  'SD01B':'Dragonshy',
+  'SD01C':'Feeling Pinkie Keen',
+  'SD01D':'Applebuck Season',
+  'SD01E':'The Best Young Flyer',
+  'SD01F':'A Dog and Pony Show',
+};
+
+function pickStorySet(deckCode) {
+  const tiers = ['I','II','III','IV'];
+  const setCards = state.library.filter(c => c.type==='Story' && c.deck===deckCode);
+  if (!setCards.length) { toast(`No story cards found for ${deckCode}`,'warn'); return; }
+  let added = 0;
+  tiers.forEach((tier, i) => {
+    if (state.story[i]) return; // slot already filled
+    const card = setCards.find(c => c.story_stage===tier);
+    if (card) { state.story[i]={...card}; added++; }
+  });
+  renderStory(); updateSidebar();
+  if (added) toast(`📖 ${STORY_SETS[deckCode]||deckCode} — ${added} tier(s) added`,'ok');
+  else toast('Story slots already filled','warn');
+}
+
 function renderStory() {
   const tiers=['I','II','III','IV'];
+  // Build set-picker row
+  const setPickerHTML = `<div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;">
+    ${Object.entries(STORY_SETS).map(([dk,name])=>
+      `<button onclick="pickStorySet('${dk}')" style="background:var(--surface2);border:1px solid var(--border2);color:var(--muted);border-radius:6px;padding:4px 9px;font-size:0.68rem;font-weight:700;cursor:pointer;font-family:var(--font-body);">${name}</button>`
+    ).join('')}
+    <button onclick="state.story=[null,null,null,null];renderStory();updateSidebar();" style="background:none;border:1px solid rgba(248,113,113,0.3);color:#f87171;border-radius:6px;padding:4px 9px;font-size:0.68rem;font-weight:700;cursor:pointer;font-family:var(--font-body);">✕ Clear</button>
+  </div>`;
   ['story-grid-d','story-grid-m'].forEach(id=>{
     const grid=$(id); if(!grid) return;
     grid.innerHTML='';
+    // Add set picker
+    const pickerEl = document.createElement('div');
+    pickerEl.style.gridColumn='1/-1';
+    pickerEl.innerHTML=setPickerHTML;
+    grid.appendChild(pickerEl);
     state.story.forEach((card,i)=>{
       const slot=document.createElement('div');
       slot.className='story-slot';
@@ -1257,8 +1328,8 @@ function renderStory() {
           ${card?`<button class="story-rm" onclick="event.stopPropagation();removeCard('story','${card.id}')">✕</button>`:''}
         </div>`;
       grid.appendChild(slot);
-    });
-  });
+    }); // end story.forEach
+  });   // end grids.forEach
   updateSidebar();
 }
 
@@ -1279,12 +1350,7 @@ function updateSidebar() {
   setChip('zc-main-m',total===50?'✓ 50 cards':`${total}/50`, total===50?'ok':total>50?'err':'warn');
   setChip('zc-scene-m',`${state.scene.length} cards`,'ok');
   setChip('zc-story-m',storyFilled===4?'✓ Complete':`${storyFilled}/4`,storyFilled===4?'ok':'warn');
-  // Color lock indicator
-  const mc=getDeckMainColor();
-  const indicatorHTML=mc
-    ?`<span style="font-size:0.9rem">${COLOR_ICON[mc]||'●'}</span><span style="color:${COLOR_HEX[mc]||'#9ca3af'};font-size:0.7rem;font-weight:700">${mc}</span>`
-    :`<span style="font-size:0.68rem;color:var(--dim)">No color</span>`;
-  ['color-lock-indicator','color-lock-indicator-m'].forEach(id=>{const el=$(id);if(el)el.innerHTML=indicatorHTML;});
+
   // Deck name sync
   const dn=$('deck-name'); const dnm=$('deck-name-m');
   if(dn&&dnm&&document.activeElement!==dn&&document.activeElement!==dnm) dnm.value=dn.value;
