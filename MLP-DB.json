@@ -1637,7 +1637,7 @@
       "Unicorn",
       "Rarity"
     ],
-    "color": "White",
+    "color": "Indigo",
     "cost": 5,
     "power": 6,
     "rarity": "GR",
@@ -1645,6 +1645,652 @@
     "ability": "Pre-plan Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "story_stage": null
   },
+  {
+    "id": "BP01-CR01",
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Twilight Sparkle"
+    ],
+    "color": "Purple",
+    "cost": 4,
+    "power": 5,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Appear If there is any Event in your Retirement Area, choose 1 Character in Rival's Adventure Area, it gets -3 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR02",
+    "name": "Fluttershy",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Fluttershy"
+    ],
+    "color": "Yellow",
+    "cost": 3,
+    "power": 4,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Appear Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR03",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 2,
+    "power": 3,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Appear Reveal the top 3 cards of your Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR04",
+    "name": "Applejack",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Applejack"
+    ],
+    "color": "Orange",
+    "cost": 3,
+    "power": 4,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Farewell If there is any untapped Scene in your Scene Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR05",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 2,
+    "power": 3,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Farewell Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR06",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 4,
+    "power": 5,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Farewell Choose 1 「Rarity」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR07",
+    "name": "Twilight Sparkle",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Twilight Sparkle"
+    ],
+    "color": "Purple",
+    "cost": 2,
+    "power": 3,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Adventure While there is any Event in your Retirement Area, this Character gets +2 Inspiration in your turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR08",
+    "name": "Fluttershy",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Fluttershy"
+    ],
+    "color": "Yellow",
+    "cost": 3,
+    "power": 5,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Farewell Choose 1 「Pet」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR09",
+    "name": "Pinkie Pie",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Pinkie Pie"
+    ],
+    "color": "Pink",
+    "cost": 5,
+    "power": 6,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Adventure Tap Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR10",
+    "name": "Applejack",
+    "type": "Character",
+    "subtype": [
+      "Earth Pony",
+      "Applejack"
+    ],
+    "color": "Orange",
+    "cost": 3,
+    "power": 3,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Appear Choose 2 Scenes in your Scene Area, untap them.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR11",
+    "name": "Rainbow Dash",
+    "type": "Character",
+    "subtype": [
+      "Pegasus",
+      "Rainbow Dash"
+    ],
+    "color": "Blue",
+    "cost": 4,
+    "power": 5,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Adventure Tap Choose 1 other 「Pegasus」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-CR12",
+    "name": "Rarity",
+    "type": "Character",
+    "subtype": [
+      "Unicorn",
+      "Rarity"
+    ],
+    "color": "Indigo",
+    "cost": 2,
+    "power": 4,
+    "rarity": "CR",
+    "deck": "BP01",
+    "ability": "Appear If there is any other 「Rarity」 in your Adventure Area, choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR01",
+    "name": "Sunlight in the Rain",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Rainbow Dash」 with Cost of Force of Harmony 3 or less in your Adventure Area. Draw 2 cards.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR02",
+    "name": "Time for Clean-up!",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR03",
+    "name": "Deliver letters",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 1 card.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR04",
+    "name": "Award Ceremony",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR05",
+    "name": "Prepared to Go",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 「Pinkie Pie」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR06",
+    "name": "Overspeed Warning!",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Pet」 in your Adventure Area. Draw 2 cards.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR07",
+    "name": "Hair Curling",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there are 2 or more Characters in Rival's Adventure Area. Draw 2 cards.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR08",
+    "name": "Pillow Fight",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR09",
+    "name": "Rain Under the Roof",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "All Characters in Rival's Adventure Area get -1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR10",
+    "name": "Wire Accident",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when Rival has more Plans than you in Story Area. Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR11",
+    "name": "Make a Cake",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 Character with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR12",
+    "name": "Hoof Power Test",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 「Applejack」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR13",
+    "name": "Tense Competition",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +1 Inspiration for each Character in your Adventure Area.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR14",
+    "name": "Messy Henhouse",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any tapped Character in your Adventure Area. Draw 2 cards.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR15",
+    "name": "Washing Day",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 Character with Inspiration 6 or more in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR16",
+    "name": "Dig for Gems",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Rarity」 in your Adventure Area. Draw 2 cards.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR17",
+    "name": "Attend to Cure",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Choose 1 「Pet」 with Cost of Force of Harmony 2 or less in your Retirement Area, move it to Adventure Area.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR18",
+    "name": "Accidentally Burnt Book",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any Event in your Retirement Area. Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR19",
+    "name": "Cycling for Friends",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Applejack」 in your Adventure Area. Choose 2 Characters in your Adventure Area, they get +1 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR20",
+    "name": "Head Up to the Night Sky",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any Event in your Retirement Area. Choose 1 「Twilight Sparkle」 with Cost of Force of Harmony 3 or less in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR21",
+    "name": "Found Scroll",
+    "type": "Event",
+    "subtype": [],
+    "color": "",
+    "cost": 1,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only use when there is any 「Twilight Sparkle」 in your Adventure Area. Draw 2 cards, discard 1 card.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR22",
+    "name": "Super Spicy Sauce",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Twilight Sparkle」. While there is any Event in your Retirement Area, adorned Character gets +2 Inspiration.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR23",
+    "name": "Soda",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Applejack」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR24",
+    "name": "Horseshoe",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Rainbow Dash」. Adorned Character with Cost of Force of Harmony 2 or less gets +2 Inspiration.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR25",
+    "name": "Pinkie Pie's Flying Device",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Pinkie Pie」. Other Characters in your Adventure Area get +1 Inspiration.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR26",
+    "name": "Thimble Pack",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 3,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Rarity」. Adorned Character gets +2 Inspiration.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR27",
+    "name": "Fluttershy's Bell",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Fluttershy」. Adorned Character with Cost of Force of Harmony 4 or more gets +2 Inspiration.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR28",
+    "name": "Recorder",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Pinkie Pie」. Adorned Character gains: Farewell Choose 1 「Pinkie Pie」 with Cost of Force of Harmony 4 or less in your Retirement Area, add it to Hand.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER07",
+    "name": "Canterlot Tower",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Purple",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER08",
+    "name": "Ponyville Suburb",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Yellow",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER09",
+    "name": "Ponyville Street",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Pink",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER10",
+    "name": "Road at Sweet Apple Acres",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Orange",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER11",
+    "name": "Stairs of Cloudsdale",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Blue",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  },
+  {
+    "id": "SD01-ER12",
+    "name": "Manehattan Streets",
+    "type": "Scene",
+    "subtype": [
+      "Everyday"
+    ],
+    "color": "Indigo",
+    "cost": null,
+    "power": null,
+    "rarity": "ER",
+    "deck": "SD01",
+    "ability": "Inspo Boost Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "story_stage": null
+  }, 
   {
     "id": "SD01-C01",
     "name": "Twilight Sparkle",
