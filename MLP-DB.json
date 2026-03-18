@@ -1130,7 +1130,7 @@
   {
     "id": "BP01-RR01",
     "name": "Twilight Sparkle",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -1146,7 +1146,7 @@
   {
     "id": "BP01-RR02",
     "name": "Fluttershy",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -1162,7 +1162,7 @@
   {
     "id": "BP01-RR03",
     "name": "Pinkie Pie",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -1178,7 +1178,7 @@
   {
     "id": "BP01-RR04",
     "name": "Applejack",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -1194,7 +1194,7 @@
   {
     "id": "BP01-RR05",
     "name": "Rainbow Dash",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -1210,7 +1210,7 @@
   {
     "id": "BP01-RR06",
     "name": "Rarity",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Rarity"
@@ -5093,7 +5093,7 @@
   {
     "id": "※BP01-RR01",
     "name": "Twilight Sparkle",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Twilight Sparkle"
@@ -5109,7 +5109,7 @@
   {
     "id": "※BP01-RR02",
     "name": "Fluttershy",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Fluttershy"
@@ -5125,7 +5125,7 @@
   {
     "id": "※BP01-RR03",
     "name": "Pinkie Pie",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Pinkie Pie"
@@ -5141,7 +5141,7 @@
   {
     "id": "※BP01-RR04",
     "name": "Applejack",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Earth Pony",
       "Applejack"
@@ -5157,7 +5157,7 @@
   {
     "id": "※BP01-RR05",
     "name": "Rainbow Dash",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Pegasus",
       "Rainbow Dash"
@@ -5173,7 +5173,7 @@
   {
     "id": "※BP01-RR06",
     "name": "Rarity",
-    "type": "Character",
+    "type": "Main Character",
     "subtype": [
       "Unicorn",
       "Rarity"
