@@ -1691,48 +1691,71 @@ function snapshot() {
     return;
   }
 
-  // Desktop: expand deck-scroll panel
-  const deckScroll = $('deck-scroll') || $('panel-deck');
-  if (!deckScroll) { toast('⚠ Nothing to capture','warn'); return; }
+  // Desktop: rebuild deck content into isolated off-screen container
+  const src = $('deck-scroll');
+  if (!src) { toast('⚠ Nothing to capture','warn'); return; }
 
-  const saved = {
-    overflow: deckScroll.style.overflow,
-    height:   deckScroll.style.height,
-    maxH:     deckScroll.style.maxHeight,
-    pb:       deckScroll.style.paddingBottom,
-  };
-  deckScroll.style.overflow    = 'visible';
-  deckScroll.style.height      = 'auto';
-  deckScroll.style.maxHeight   = 'none';
-  deckScroll.style.paddingBottom = '0';
+  // Measure true content width from the panel itself
+  const panelDeck = document.getElementById('panel-deck');
+  const W = src.clientWidth || (panelDeck ? panelDeck.clientWidth - 2 : 0) || 600;
 
-  const scrollH = deckScroll.scrollHeight;
-  const scrollW = deckScroll.offsetWidth || 600;
+  // Outer wrapper — isolated block, no flex/grid inheritance
+  const wrap = document.createElement('div');
+  wrap.style.cssText = [
+    'position:fixed','left:-9999px','top:0',
+    `width:${W}px`,
+    'background:#0f0820',
+    'display:block',       // NOT flex — prevents layout leaking from parent
+    'z-index:-1',
+    'pointer-events:none',
+    'overflow:visible',
+  ].join(';');
 
-  const restore = () => {
-    deckScroll.style.overflow     = saved.overflow;
-    deckScroll.style.height       = saved.height;
-    deckScroll.style.maxHeight    = saved.maxH;
-    deckScroll.style.paddingBottom= saved.pb;
-  };
+  // Deep-clone content
+  const clone = src.cloneNode(true);
+  clone.style.cssText = [
+    `width:${W}px`,
+    'height:auto',
+    'max-height:none',
+    'overflow:visible',
+    'flex:none',           // detach from any flex parent
+    'display:block',
+    'padding:10px',
+    'box-sizing:border-box',
+  ].join(';');
 
+  // Remove any fixed/absolute positioned children that shouldn't appear
+  clone.querySelectorAll('[style*="position:fixed"],[style*="position: fixed"]').forEach(el=>el.remove());
+
+  wrap.appendChild(clone);
+  document.body.appendChild(wrap);
+
+  // Two rAF: first lets DOM attach, second lets paint complete
   requestAnimationFrame(() => requestAnimationFrame(() => {
-    html2canvas(deckScroll, {
-      backgroundColor: '#0f0820', scale: 2,
-      useCORS: true, allowTaint: true, logging: false,
-      width: scrollW, height: scrollH,
-      windowWidth: scrollW + 40, windowHeight: scrollH + 40,
-      x: 0, y: 0,
-      ignoreElements: el => el.id === 'mobile-nav' || el.id === 'toasts' || el.id === 'zoom-modal',
+    const H = Math.max(clone.scrollHeight, clone.offsetHeight);
+    html2canvas(clone, {
+      backgroundColor: '#0f0820',
+      scale: 2,
+      useCORS: true,
+      allowTaint: true,
+      logging: false,
+      width: W,
+      height: H,
+      windowWidth: W + 80,
+      windowHeight: H + 80,
     }).then(canvas => {
-      restore();
+      document.body.removeChild(wrap);
       const name = (($('deck-name')||{}).value||'deck').replace(/\s+/g,'_');
       const a = document.createElement('a');
       a.href = canvas.toDataURL('image/png');
       a.download = name + '_snapshot.png';
       document.body.appendChild(a); a.click(); document.body.removeChild(a);
       toast('✅ Snapshot saved','ok');
-    }).catch(err => { restore(); toast('❌ Snapshot failed: '+err.message,'err'); console.error(err); });
+    }).catch(err => {
+      if (document.body.contains(wrap)) document.body.removeChild(wrap);
+      toast('❌ Snapshot failed: '+err.message,'err');
+      console.error(err);
+    });
   }));
 }
 
