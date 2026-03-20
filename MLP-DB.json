@@ -1497,19 +1497,6 @@
     "story_stage": null
   },
   {
-    "id": "BP01-SPR24",
-    "name": "Horseshoe",
-    "type": "Item",
-    "subtype": [],
-    "color": "",
-    "cost": 2,
-    "power": null,
-    "rarity": "SPR",
-    "deck": "BP01",
-    "ability": "Only adorn 「Rainbow Dash」. Adorned Character with Cost of Force of Harmony 2 or less gets +2 Inspiration.",
-    "story_stage": null
-  },
-  {
     "id": "BP01-SPR22",
     "name": "Super Spicy Sauce",
     "type": "Item",
@@ -1533,6 +1520,19 @@
     "rarity": "SPR",
     "deck": "BP01",
     "ability": "Only adorn 「Applejack」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
+    "story_stage": null
+  },
+  {
+    "id": "BP01-SPR24",
+    "name": "Horseshoe",
+    "type": "Item",
+    "subtype": [],
+    "color": "",
+    "cost": 2,
+    "power": null,
+    "rarity": "SPR",
+    "deck": "BP01",
+    "ability": "Only adorn 「Rainbow Dash」. Adorned Character with Cost of Force of Harmony 2 or less gets +2 Inspiration.",
     "story_stage": null
   },
   {
