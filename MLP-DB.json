@@ -13,7 +13,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card.",
+    "ability": "[Farewell] Draw 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ"
   },
   {
@@ -30,7 +30,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Event in your Retirement Area, draw 1 card.",
+    "ability": "[Appear] If there is any Event in your Retirement Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามีอีเวนต์อยู่ในโซนพักผ่อนของคุณ, จั่วการ์ด 1 ใบ"
   },
   {
@@ -47,7 +47,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -64,7 +64,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there are 5 or more Scenes in your Scene Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there are 5 or more Scenes in your Scene Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มีการ์ดฉาก 5 ใบขึ้นไปในโซนฉากของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -81,7 +81,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -98,7 +98,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card.",
+    "ability": "[Farewell] Draw 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ"
   },
   {
@@ -115,7 +115,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -132,7 +132,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -149,7 +149,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Discard 1 card, draw 1 card.",
+    "ability": "[Adventure] [Tap] Discard 1 card, draw 1 card.",
     "ability_th": "[Adventure] [Tap] ทิ้ง 1 ใบ แล้วจั่วการ์ด 1 ใบ"
   },
   {
@@ -166,7 +166,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there are 3 Characters in your Adventure Area, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While there are 3 Characters in your Adventure Area, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีตัวละคร 3 ตัวในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -183,7 +183,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -200,7 +200,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 Item in your Retirement Area, add it to Hand.",
+    "ability": "[Appear] Choose 1 Item in your Retirement Area, add it to Hand.",
     "ability_th": "[Appear] เลือกไอเทม 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -217,7 +217,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -234,7 +234,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Twilight Sparkle」 in your Retirement Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any 「Twilight Sparkle」 in your Retirement Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Twilight Sparkle」 อยู่ในโซนพักผ่อนของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -251,7 +251,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -268,7 +268,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -285,7 +285,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -302,7 +302,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any other 「Earth Pony」 in your Adventure Area, draw 1 card.",
+    "ability": "[Appear] If there is any other 「Earth Pony」 in your Adventure Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามี 「Earth Pony」 อื่นอยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -319,7 +319,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 other 「Earth Pony」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 other 「Earth Pony」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Earth Pony」 อื่น 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -336,7 +336,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -353,7 +353,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -370,7 +370,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any other 「Earth Pony」 in your Adventure Area, this Character gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any other 「Earth Pony」 in your Adventure Area, this Character gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามี 「Earth Pony」 อื่นอยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -387,7 +387,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is any 「Earth Pony」 in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is any 「Earth Pony」 in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่มี 「Earth Pony」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -404,7 +404,7 @@
     "rarity": "C",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -420,7 +420,7 @@
     "story_title": "The Ticket Master",
     "story_subtitle": "Two Tickets to the Gala",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -436,7 +436,7 @@
     "story_title": "The Ticket Master",
     "story_subtitle": "Friends Frenzy",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Twilight Sparkle」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -452,7 +452,7 @@
     "story_title": "The Ticket Master",
     "story_subtitle": "All or None",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, add 1 Scene.",
+    "ability": "When promoted to this stage, add 1 Scene.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เพิ่มการ์ดฉาก 1 ใบ"
   },
   {
@@ -468,7 +468,7 @@
     "story_title": "The Ticket Master",
     "story_subtitle": "Grand Galloping Gala",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -484,7 +484,7 @@
     "story_title": "Curing Philomena",
     "story_subtitle": "A Very Sick Patient",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -500,7 +500,7 @@
     "story_title": "Curing Philomena",
     "story_subtitle": "Intensive Care",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Fluttershy」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -516,7 +516,7 @@
     "story_title": "Curing Philomena",
     "story_subtitle": "Turning to Ash",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, if there is any 「Pet」 in your Adventure Area, reveal the top 3 cards of the Deck, choose 2 Characters from them, add them to Hand, move the rest to Retirement Area.",
+    "ability": "When promoted to this stage, if there is any 「Pet」 in your Adventure Area, reveal the top 3 cards of the Deck, choose 2 Characters from them, add them to Hand, move the rest to Retirement Area.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ ถ้ามี 「Pet」 อยู่ในโซนผจญภัยของคุณ ให้แสดงการ์ด 3 ใบบนสุดของเด็ค เลือกตัวละคร 2 ตัวจากนั้น นำการ์ดเหล่านั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -532,7 +532,7 @@
     "story_title": "Curing Philomena",
     "story_subtitle": "Rebirth",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -548,7 +548,7 @@
     "story_title": "Party of One",
     "story_subtitle": "Invitation Declined",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -564,7 +564,7 @@
     "story_title": "Party of One",
     "story_subtitle": "Something Fishy",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, reveal the top 3 cards of the Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "When promoted to this stage, reveal the top 3 cards of the Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ แสดงการ์ด 3 ใบบนสุดของเด็ค เลือกไอเทม 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -580,7 +580,7 @@
     "story_title": "Party of One",
     "story_subtitle": "Sad & Lonely Pinkie",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 Character in Rival's Adventure Area, it gets −3 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 Character in Rival's Adventure Area, it gets −3 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -3 จนจบเทิร์น"
   },
   {
@@ -596,7 +596,7 @@
     "story_title": "Party of One",
     "story_subtitle": "Surprise Birthday Party",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -612,7 +612,7 @@
     "story_title": "Over a Barrel",
     "story_subtitle": "Bedtime Story",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -628,7 +628,7 @@
     "story_title": "Over a Barrel",
     "story_subtitle": "Train Heist",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, all Characters in Rival's Adventure Area get −1 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, all Characters in Rival's Adventure Area get −1 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ ตัวละครทั้งหมดในโซนผจญภัยของฝ่ายตรงข้ามสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -644,7 +644,7 @@
     "story_title": "Over a Barrel",
     "story_subtitle": "Tit for Tat",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 「Applejack」 in your Adventure Area, it gets +4 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 「Applejack」 in your Adventure Area, it gets +4 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Applejack」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +4 จนจบเทิร์น"
   },
   {
@@ -660,7 +660,7 @@
     "story_title": "Over a Barrel",
     "story_subtitle": "Bury the Hatchet",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -676,7 +676,7 @@
     "story_title": "Griffon the Brush Off",
     "story_subtitle": "Old Pal Here",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -692,7 +692,7 @@
     "story_title": "Griffon the Brush Off",
     "story_subtitle": "Welcome Party",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 Character with Inspiration 6 or more in Rival's Adventure Area, it gets −3 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 Character with Inspiration 6 or more in Rival's Adventure Area, it gets −3 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 6 ขึ้นไปในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -3 จนจบเทิร์น"
   },
   {
@@ -708,7 +708,7 @@
     "story_title": "Griffon the Brush Off",
     "story_subtitle": "Losing her temper",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 「Rainbow Dash」 in your Adventure Area, it gets +4 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 「Rainbow Dash」 in your Adventure Area, it gets +4 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Rainbow Dash」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +4 จนจบเทิร์น"
   },
   {
@@ -724,7 +724,7 @@
     "story_title": "Griffon the Brush Off",
     "story_subtitle": "The Party Goes On",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -740,7 +740,7 @@
     "story_title": "Suited For Success",
     "story_subtitle": "Too Much Advice",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -756,7 +756,7 @@
     "story_title": "Suited For Success",
     "story_subtitle": "Fashion Flops",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 「Rarity」 in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 「Rarity」 in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Rarity」 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -772,7 +772,7 @@
     "story_title": "Suited For Success",
     "story_subtitle": "First Edition",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -788,7 +788,7 @@
     "story_title": "Suited For Success",
     "story_subtitle": "Suited Up!",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -805,7 +805,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Event in your Retirement Area, choose 1 Character in Rival's Adventure Area, it gets -3 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any Event in your Retirement Area, choose 1 Character in Rival's Adventure Area, it gets -3 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -3 จนจบเทิร์น"
   },
   {
@@ -822,7 +822,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -839,7 +839,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Reveal the top 3 cards of your Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "[Appear] Reveal the top 3 cards of your Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "[Appear] แสดงการ์ด 3 ใบบนสุดของเด็ค เลือกไอเทม 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -856,7 +856,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] If there is any untapped Scene in your Scene Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] If there is any untapped Scene in your Scene Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] ถ้ามีการ์ดฉากสถานะตั้งอยู่ในโซนฉากของคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 4 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -873,7 +873,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -890,7 +890,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 「Rarity」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 「Rarity」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือก 「Rarity」 1 ใบที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -907,7 +907,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any Event in your Retirement Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any Event in your Retirement Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มีอีเวนต์อยู่ในโซนพักผ่อนของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -924,7 +924,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 「Pet」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Farewell] Choose 1 「Pet」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Farewell] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -941,7 +941,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Adventure] [Tap] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Adventure] [Tap] เลือกไอเทม 1 ใบที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -958,7 +958,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 2 Scenes in your Scene Area, untap them.",
+    "ability": "[Appear] Choose 2 Scenes in your Scene Area, untap them.",
     "ability_th": "[Appear] เลือกการ์ดฉาก 2 ใบในโซนฉากของคุณ ตั้งการ์ดเหล่านั้น"
   },
   {
@@ -975,7 +975,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 other 「Pegasus」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 other 「Pegasus」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก 「Pegasus」 อื่น 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -992,7 +992,7 @@
     "rarity": "CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any other 「Rarity」 in your Adventure Area, choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any other 「Rarity」 in your Adventure Area, choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามี 「Rarity」 อื่นอยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -1009,7 +1009,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Event in your Retirement Area, choose 1 「Spike」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any Event in your Retirement Area, choose 1 「Spike」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือก 「Spike」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -1026,7 +1026,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] If there is any 「Pet」 in your Adventure Area, draw 2 cards.",
+    "ability": "[Pre-plan] If there is any 「Pet」 in your Adventure Area, draw 2 cards.",
     "ability_th": "[Pre-plan] ถ้ามี 「Pet」 อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 2 ใบ"
   },
   {
@@ -1043,7 +1043,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Item in your Retirement Area, draw 1 card.",
+    "ability": "[Appear] If there is any Item in your Retirement Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามีไอเทมอยู่ในโซนพักผ่อนของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -1060,7 +1060,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Draw 1 card.",
+    "ability": "[Pre-plan] Draw 1 card.",
     "ability_th": "[Pre-plan] จั่วการ์ด 1 ใบ"
   },
   {
@@ -1077,7 +1077,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่ไม่มีตัวละครอยู่ในโซนผจญภัยของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -1094,7 +1094,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 「Rarity」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 「Rarity」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก 「Rarity」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -1111,7 +1111,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Spike」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Appear] Choose 1 「Spike」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Appear] เลือก 「Spike」 1 ใบที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -1128,7 +1128,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Reveal the top 3 cards of your Deck, choose 1 「Angel」 from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "[Appear] Reveal the top 3 cards of your Deck, choose 1 「Angel」 from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "[Appear] แสดงการ์ด 3 ใบบนสุดของเด็ค เลือก 「Angel」 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -1145,7 +1145,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While this Character is adorned with Item, all Characters in your Adventure Area get +1 Inspiration in your turn.",
+    "ability": "[Adventure] While this Character is adorned with Item, all Characters in your Adventure Area get +1 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่ตัวละครนี้ติดตั้งไอเทม ตัวละครทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 ในเทิร์นของคุณ"
   },
   {
@@ -1162,7 +1162,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 Scene in your Scene Area, untap it.",
+    "ability": "[Adventure] [Tap] Choose 1 Scene in your Scene Area, untap it.",
     "ability_th": "[Adventure] [Tap] เลือกการ์ดฉาก 1 ใบในโซนฉากของคุณ ตั้งการ์ดนั้น"
   },
   {
@@ -1179,7 +1179,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is any Character in Rival's Adventure Area and no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is any Character in Rival's Adventure Area and no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่มีตัวละครอยู่ในโซนผจญภัยของฝ่ายตรงข้าม และไม่มีตัวละครในโซนผจญภัยของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -1196,7 +1196,7 @@
     "rarity": "GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Pre-plan] เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -1213,7 +1213,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1230,7 +1230,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1247,7 +1247,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1264,7 +1264,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1281,7 +1281,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1298,7 +1298,7 @@
     "rarity": "RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -1312,7 +1312,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Rainbow Dash」 with Cost of Force of Harmony 3 or less in your Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there is any 「Rainbow Dash」 with Cost of Force of Harmony 3 or less in your Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Rainbow Dash」 ที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าอยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -1326,7 +1326,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "ability": "Choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 4 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -1340,7 +1340,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 1 card.",
+    "ability": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 1 card.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Twilight Sparkle」 หรือ 「Spike」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 1 ใบ"
   },
   {
@@ -1354,7 +1354,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
+    "ability": "All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
     "ability_th": "ตัวละครทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -1368,7 +1368,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Pinkie Pie」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Pinkie Pie」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Pinkie Pie」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -1382,7 +1382,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there are any 「Pet」 in your Adventure Area. Draw 2 cards",
+    "ability": "Only use when there are any 「Pet」 in your Adventure Area. Draw 2 cards",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Pet」 ในโซนผจญภัย จั่วการ์ด 2 ใบ"
   },
   {
@@ -1396,7 +1396,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there are 2 or more Characters in Rival's Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there are 2 or more Characters in Rival's Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีตัวละคร 2 ตัวขึ้นไปในโซนผจญภัยของฝ่ายตรงข้าม จั่วการ์ด 2 ใบ"
   },
   {
@@ -1410,7 +1410,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "ability": "Choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
     "ability_th": "เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -1424,7 +1424,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "All Characters in Rival's Adventure Area get -1 Inspiration until the end of turn.",
+    "ability": "All Characters in Rival's Adventure Area get -1 Inspiration until the end of turn.",
     "ability_th": "ตัวละครทั้งหมดในโซนผจญภัยของฝ่ายตรงข้ามสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -1438,7 +1438,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when Rival has more Plans than you in Story Area. Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
+    "ability": "Only use when Rival has more Plans than you in Story Area. Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
     "ability_th": "ใช้ได้เฉพาะเมื่อฝ่ายตรงข้ามมีแผนการในโซนเรื่องราวมากกว่าคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -1452,7 +1452,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "Choose 1 Character with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -1466,7 +1466,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Applejack」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Applejack」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Applejack」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +3 จนจบเทิร์น"
   },
   {
@@ -1480,7 +1480,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +1 Inspiration for each Character in your Adventure Area.",
+    "ability": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +1 Inspiration for each Character in your Adventure Area.",
     "ability_th": "เลือก 「Fluttershy」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 ต่อตัวละคร 1 ตัวในโซนผจญภัยของคุณ"
   },
   {
@@ -1494,7 +1494,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any tapped Character in your Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there is any tapped Character in your Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีตัวละครสถานะนอนอยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -1508,7 +1508,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Inspiration 6 or more in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
+    "ability": "Choose 1 Character with Inspiration 6 or more in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 6 ขึ้นไปในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -2 จนจบเทิร์น"
   },
   {
@@ -1522,7 +1522,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Rarity」 in your Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there is any 「Rarity」 in your Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Rarity」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -1536,7 +1536,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Pet」 with Cost of Force of Harmony 2 or less in your Retirement Area, move it to Adventure Area.",
+    "ability": "Choose 1 「Pet」 with Cost of Force of Harmony 2 or less in your Retirement Area, move it to Adventure Area.",
     "ability_th": "เลือก 「Pet」 1 ตัวที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำไปยังโซนผจญภัย"
   },
   {
@@ -1550,7 +1550,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any Event in your Retirement Area. Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Only use when there is any Event in your Retirement Area. Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -1564,7 +1564,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Applejack」 in your Adventure Area. Choose 2 Characters in your Adventure Area, they get +1 Inspiration until the end of turn.",
+    "ability": "Only use when there is any 「Applejack」 in your Adventure Area. Choose 2 Characters in your Adventure Area, they get +1 Inspiration until the end of turn.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Applejack」 อยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 2 ตัวในโซนผจญภัยของคุณ ตัวละครเหล่านั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -1578,7 +1578,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any Event in your Retirement Area. Choose 1 「Twilight Sparkle」 with Cost of Force of Harmony 3 or less in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "ability": "Only use when there is any Event in your Retirement Area. Choose 1 「Twilight Sparkle」 with Cost of Force of Harmony 3 or less in your Adventure Area, it gets +3 Inspiration until the end of turn.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือก 「Twilight Sparkle」 1 ตัวที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +3 จนจบเทิร์น"
   },
   {
@@ -1592,7 +1592,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Twilight Sparkle」 in your Adventure Area. Draw 2 cards, discard 1 card.",
+    "ability": "Only use when there is any 「Twilight Sparkle」 in your Adventure Area. Draw 2 cards, discard 1 card.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Twilight Sparkle」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -1606,7 +1606,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Twilight Sparkle」. While there is any Event in your Retirement Area, adorned Character gets +2 Inspiration.",
+    "ability": "Only adorn 「Twilight Sparkle」. While there is any Event in your Retirement Area, adorned Character gets +2 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Twilight Sparkle」 ขณะที่มีอีเวนต์อยู่ในโซนพักผ่อนของคุณ ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -1620,7 +1620,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Applejack」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
+    "ability": "Only adorn 「Applejack」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Applejack」 เมื่อตัวละครที่ติดตั้งไอเทมถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการ ให้นำไอเทมนี้ไปยังโซนพักผ่อนแทน"
   },
   {
@@ -1634,7 +1634,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Rainbow Dash」. Adorned Character with Cost of Force of Harmony 2 or less gets +2 Inspiration.",
+    "ability": "Only adorn 「Rainbow Dash」. Adorned Character with Cost of Force of Harmony 2 or less gets +2 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Rainbow Dash」 ตัวละครที่ติดตั้งไอเทมที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -1648,7 +1648,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Pinkie Pie」. Other Characters in your Adventure Area get +1 Inspiration.",
+    "ability": "Only adorn 「Pinkie Pie」. Other Characters in your Adventure Area get +1 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Pinkie Pie」 ตัวละครอื่นในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -1662,7 +1662,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Rarity」. Adorned Character gets +2 Inspiration.",
+    "ability": "Only adorn 「Rarity」. Adorned Character gets +2 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Rarity」 ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -1676,7 +1676,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Fluttershy」. Adorned Character with Cost of Force of Harmony 4 or more gets +2 Inspiration.",
+    "ability": "Only adorn 「Fluttershy」. Adorned Character with Cost of Force of Harmony 4 or more gets +2 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Fluttershy」 ตัวละครที่ติดตั้งไอเทมที่มีค่าพลังมิตรภาพ 4 ขึ้นไปได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -1690,7 +1690,7 @@
     "rarity": "SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Pinkie Pie」. Adorned Character gains: [Farewell] Choose 1 「Pinkie Pie」 with Cost of Force of Harmony 4 or less in your Retirement Area, add it to Hand.",
+    "ability": "Only adorn 「Pinkie Pie」. Adorned Character gains: [Farewell] Choose 1 「Pinkie Pie」 with Cost of Force of Harmony 4 or less in your Retirement Area, add it to Hand.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Pinkie Pie」 ตัวละครที่ติดตั้งไอเทมได้รับความสามารถ: [Farewell] เลือกตัวละคร 「Pinkie Pie」 1 ตัวที่มีค่าพลังมิตรภาพ 4 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -1707,7 +1707,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] If there is any 「Spike」 in your Retirement Area, draw 2 cards, discard 1 card.",
+    "ability": "[Pre-plan] If there is any 「Spike」 in your Retirement Area, draw 2 cards, discard 1 card.",
     "ability_th": "[Pre-plan] ถ้ามี 「Spike」 อยู่ในโซนพักผ่อนของคุณ ให้จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -1724,7 +1724,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Angel」 in your Adventure Area, choose 1 「Pet」 in your Retirement Area, add it to Hand.",
+    "ability": "[Appear] If there is any 「Angel」 in your Adventure Area, choose 1 「Pet」 in your Retirement Area, add it to Hand.",
     "ability_th": "[Appear] ถ้ามี 「Angel」 อยู่ในโซนผจญภัยของคุณ เลือก 「Pet」 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -1741,7 +1741,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Draw 1 card, discard 1 card.",
+    "ability": "[Appear] Draw 1 card, discard 1 card.",
     "ability_th": "[Appear] จั่วการ์ด 1 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -1758,7 +1758,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any untapped Scene in your Scene Area, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While there is any untapped Scene in your Scene Area, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีการ์ดฉากสถานะตั้งอยู่ในโซนฉากของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -1775,7 +1775,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any other 「Rainbow Dash」 in your Adventure Area, choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Appear] If there is any other 「Rainbow Dash」 in your Adventure Area, choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Appear] ถ้ามี 「Rainbow Dash」 อื่นอยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -1792,7 +1792,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Opal」 in your Adventure Area, draw 1 card.",
+    "ability": "[Appear] If there is any 「Opal」 in your Adventure Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามี 「Opal」 อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -1810,7 +1810,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Twilight Sparkle」 in your Adventure Area, this Character gets +1 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any 「Twilight Sparkle」 in your Adventure Area, this Character gets +1 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามี 「Twilight Sparkle」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -1828,7 +1828,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Pre-plan] Choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Pre-plan] เลือก 「Fluttershy」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -1846,7 +1846,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 2 cards, discard 1 card.",
+    "ability": "[Farewell] Draw 2 cards, discard 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -1864,7 +1864,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is any 「Applejack」 in your Retirement Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is any 「Applejack」 in your Retirement Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่มี 「Applejack」 อยู่ในโซนพักผ่อนของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -1882,7 +1882,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] All 「Rainbow Dash」 in your Adventure Area get +1 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] All 「Rainbow Dash」 in your Adventure Area get +1 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] 「Rainbow Dash」 ทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -1900,7 +1900,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Rarity」 in your Adventure Area, all Characters in Rival's Adventure Area get -1 Inspiration in Rival's turn.",
+    "ability": "[Adventure] While there is any 「Rarity」 in your Adventure Area, all Characters in Rival's Adventure Area get -1 Inspiration in Rival's turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Rarity」 อยู่ในโซนผจญภัยของคุณ ตัวละครทั้งหมดในโซนผจญภัยของฝ่ายตรงข้ามสูญเสียค่าพลังจินตนาการ -1 ในเทิร์นของฝ่ายตรงข้าม"
   },
   {
@@ -1917,7 +1917,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If Rival has more Plans than you in Story Area, choose 1 Character with Inspiration 5 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Appear] If Rival has more Plans than you in Story Area, choose 1 Character with Inspiration 5 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Appear] ถ้าฝ่ายตรงข้ามมีแผนการในโซนเรื่องราวมากกว่าคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 5 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -1934,7 +1934,7 @@
     "rarity": "SR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Pre-plan] Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Pre-plan] เลือกตัวละคร 1 ตัวที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -1951,7 +1951,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card.",
+    "ability": "[Farewell] Draw 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ"
   },
   {
@@ -1968,7 +1968,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -1985,7 +1985,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is any 「Pet」 in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is any 「Pet」 in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่มี 「Pet」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -2002,7 +2002,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2019,7 +2019,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there are 2 or more Items in your Retirement Area, this Character gets +2 Inspiration in Rival's turn.",
+    "ability": "[Adventure] While there are 2 or more Items in your Retirement Area, this Character gets +2 Inspiration in Rival's turn.",
     "ability_th": "[Adventure] ขณะที่มีไอเทม 2 ใบขึ้นไปในโซนพักผ่อนของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของฝ่ายตรงข้าม"
   },
   {
@@ -2036,7 +2036,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2053,7 +2053,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Apple Bloom」 in your Adventure Area, draw 1 card.",
+    "ability": "[Appear] If there is any 「Apple Bloom」 in your Adventure Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามี 「Apple Bloom」 อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -2070,7 +2070,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2087,7 +2087,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is no other Character in your Adventure Area, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While there is no other Character in your Adventure Area, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่ไม่มีตัวละครอื่นในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -2104,7 +2104,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2121,7 +2121,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Opal」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Opal」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Opal」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -2138,7 +2138,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2155,7 +2155,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Discard 1 card, draw 1 card.",
+    "ability": "[Appear] Discard 1 card, draw 1 card.",
     "ability_th": "[Appear] ทิ้ง 1 ใบ แล้วจั่วการ์ด 1 ใบ"
   },
   {
@@ -2172,7 +2172,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card, discard 1 card.",
+    "ability": "[Farewell] Draw 1 card, discard 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -2189,7 +2189,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Sweetie Belle」 or 「Scootaloo」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any 「Sweetie Belle」 or 「Scootaloo」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Sweetie Belle」 หรือ 「Scootaloo」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -2206,7 +2206,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Apple Bloom」 or 「Scootaloo」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any 「Apple Bloom」 or 「Scootaloo」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Apple Bloom」 หรือ 「Scootaloo」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -2223,7 +2223,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Apple Bloom」 or 「Sweetie Belle」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any 「Apple Bloom」 or 「Sweetie Belle」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Apple Bloom」 หรือ 「Sweetie Belle」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -2240,7 +2240,7 @@
     "rarity": "U",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2257,7 +2257,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2274,7 +2274,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2291,7 +2291,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2308,7 +2308,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2325,7 +2325,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2342,7 +2342,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2359,7 +2359,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] 「Sweetie Belle」 and 「Scootaloo」 in your Adventure Area get +1 Inspiration.",
+    "ability": "[Adventure] 「Sweetie Belle」 and 「Scootaloo」 in your Adventure Area get +1 Inspiration.",
     "ability_th": "[Adventure] 「Sweetie Belle」 และ 「Scootaloo」 ในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -2376,7 +2376,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2393,7 +2393,7 @@
     "rarity": "C",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -2410,7 +2410,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there are 2 or more Events in your Retirement Area, all Characters in your Adventure Area get +1 Inspiration.",
+    "ability": "[Adventure] While there are 2 or more Events in your Retirement Area, all Characters in your Adventure Area get +1 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีอีเวนต์ 2 ใบขึ้นไปในโซนพักผ่อนของคุณ ตัวละครทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -2427,7 +2427,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 Character with Cost of Force of Harmony 2 or less in your Retirement Area, move it to Adventure Area.",
+    "ability": "[Appear] Choose 1 Character with Cost of Force of Harmony 2 or less in your Retirement Area, move it to Adventure Area.",
     "ability_th": "[Appear] เลือกตัวละคร 1 ตัวที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำไปยังโซนผจญภัย"
   },
   {
@@ -2444,7 +2444,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there are 2 or more Items in your Retirement Area, all Characters in Rival's Adventure Area get -1 Inspiration.",
+    "ability": "[Adventure] While there are 2 or more Items in your Retirement Area, all Characters in Rival's Adventure Area get -1 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีไอเทม 2 ใบขึ้นไปในโซนพักผ่อนของคุณ ตัวละครทั้งหมดในโซนผจญภัยของฝ่ายตรงข้ามสูญเสียค่าพลังจินตนาการ -1"
   },
   {
@@ -2461,7 +2461,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Winona」 in your Adventure Area, choose 1 Scene in your Scene Area, untap it.",
+    "ability": "[Appear] If there is any 「Winona」 in your Adventure Area, choose 1 Scene in your Scene Area, untap it.",
     "ability_th": "[Appear] ถ้ามี 「Winona」 อยู่ในโซนผจญภัยของคุณ เลือกการ์ดฉาก 1 ใบในโซนฉากของคุณ ตั้งการ์ดนั้น"
   },
   {
@@ -2478,7 +2478,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] Retire all Characters with Cost of Force of Harmony 1 or less in Rival's Adventure Area.",
+    "ability": "[Appear] Retire all Characters with Cost of Force of Harmony 1 or less in Rival's Adventure Area.",
     "ability_th": "[Appear] นำตัวละครทั้งหมดที่มีค่าพลังมิตรภาพ 1 หรือน้อยกว่าออกจากสนามในโซนผจญภัยของฝ่ายตรงข้าม"
   },
   {
@@ -2495,7 +2495,7 @@
     "rarity": "CR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Opal」 in your Adventure Area, reveal the top 2 cards of the Deck, choose 1 Event from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "[Appear] If there is any 「Opal」 in your Adventure Area, reveal the top 2 cards of the Deck, choose 1 Event from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "[Appear] ถ้ามี 「Opal」 อยู่ในโซนผจญภัยของคุณ แสดงการ์ด 2 ใบบนสุดของเด็ค เลือกอีเวนต์ 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -2511,7 +2511,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2527,7 +2527,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2543,7 +2543,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2559,7 +2559,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2575,7 +2575,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2591,7 +2591,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2607,7 +2607,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2623,7 +2623,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2639,7 +2639,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2655,7 +2655,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2671,7 +2671,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2687,7 +2687,7 @@
     "rarity": "ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Inspo Boost Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "Inspo Boost Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -2704,7 +2704,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Pre-plan] Choose 1 Character with Cost of Force of Harmony 3 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Pre-plan] เลือกตัวละคร 1 ตัวที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -2721,7 +2721,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Pre-plan] เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -2738,7 +2738,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
+    "ability": "[Pre-plan] All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
     "ability_th": "[Pre-plan] ตัวละครทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -2755,7 +2755,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] All Characters in your Adventure Area get +1 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] ตัวละครทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -2772,7 +2772,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Farewell] Reveal the top 2 cards of the Deck, choose 1 「Rainbow Dash」 or 「Scootaloo」 from them, add it to Hand.",
+    "ability": "[Farewell] Reveal the top 2 cards of the Deck, choose 1 「Rainbow Dash」 or 「Scootaloo」 from them, add it to Hand.",
     "ability_th": "[Farewell] แสดงการ์ด 2 ใบบนสุดของเด็ค เลือก 「Rainbow Dash」 หรือ 「Scootaloo」 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -2789,7 +2789,7 @@
     "rarity": "GR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] Other Characters in your Adventure Area get +1 Inspiration.",
+    "ability": "[Adventure] Other Characters in your Adventure Area get +1 Inspiration.",
     "ability_th": "[Adventure] ตัวละครอื่นในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -2806,7 +2806,7 @@
     "rarity": "RR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2823,7 +2823,7 @@
     "rarity": "RR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2840,7 +2840,7 @@
     "rarity": "RR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2857,7 +2857,7 @@
     "rarity": "RR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2874,7 +2874,7 @@
     "rarity": "RR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2891,7 +2891,7 @@
     "rarity": "RR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "(Ruby Rare art card)",
+    "ability": "(Ruby Rare art card)",
     "ability_th": "(Ruby Rare art card)"
   },
   {
@@ -2905,7 +2905,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Reveal the top 2 cards of the Deck, choose 1 「Fluttershy」 or 「Pet」 from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "Reveal the top 2 cards of the Deck, choose 1 「Fluttershy」 or 「Pet」 from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "แสดงการ์ด 2 ใบบนสุดของเด็ค เลือก 「Fluttershy」 หรือ 「Pet」 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -2919,7 +2919,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Until the end of turn, each time Rival's Character Retires in Contact, draw 1 card.",
+    "ability": "Until the end of turn, each time Rival's Character Retires in Contact, draw 1 card.",
     "ability_th": "จนจบเทิร์น ทุกครั้งที่ตัวละครของฝ่ายตรงข้ามถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -2933,7 +2933,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Twilight Sparkle」 หรือ 「Spike」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -2947,7 +2947,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Reveal the top 3 cards of the Deck, choose 1 Character from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "Reveal the top 3 cards of the Deck, choose 1 Character from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "แสดงการ์ด 3 ใบบนสุดของเด็ค เลือกตัวละคร 1 ตัวจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -2961,7 +2961,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "Choose 1 Character in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -2975,7 +2975,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "ability": "Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
     "ability_th": "เลือกไอเทม 1 ใบที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -2989,7 +2989,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Pinkie Pie」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
+    "ability": "Only adorn 「Pinkie Pie」. When adorned Character Retires in Contact, move this Item to Retirement Area instead.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Pinkie Pie」 เมื่อตัวละครที่ติดตั้งไอเทมถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการ ให้นำไอเทมนี้ไปยังโซนพักผ่อนแทน"
   },
   {
@@ -3003,7 +3003,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Only adorn 「Twilight Sparkle」 or 「Spike」. Adorned Character gains \"[Adventure] [Tap] Draw 1 card.\"",
+    "ability": "Only adorn 「Twilight Sparkle」 or 「Spike」. Adorned Character gains \"[Adventure] [Tap] Draw 1 card.\"",
     "ability_th": "ติดตั้งได้เฉพาะ 「Twilight Sparkle」 หรือ 「Spike」 ตัวละครที่ติดตั้งไอเทมได้รับความสามารถ \"[Adventure] [Tap] จั่วการ์ด 1 ใบ\""
   },
   {
@@ -3017,7 +3017,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "Adorned Character gains \"[Farewell] Draw 2 cards.\"",
+    "ability": "Adorned Character gains \"[Farewell] Draw 2 cards.\"",
     "ability_th": "ตัวละครที่ติดตั้งไอเทมได้รับความสามารถ \"[Farewell] จั่วการ์ด 2 ใบ\""
   },
   {
@@ -3031,7 +3031,7 @@
     "rarity": "SPR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "When adorned Character Retires in Contact, choose 1 Character in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "ability": "When adorned Character Retires in Contact, choose 1 Character in your Adventure Area, it gets +3 Inspiration until the end of turn.",
     "ability_th": "เมื่อตัวละครที่ติดตั้งไอเทมถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการ เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +3 จนจบเทิร์น"
   },
   {
@@ -3048,7 +3048,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Draw 1 card, discard 1 card.",
+    "ability": "[Adventure] [Tap] Draw 1 card, discard 1 card.",
     "ability_th": "[Adventure] [Tap] จั่วการ์ด 1 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -3065,7 +3065,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3082,7 +3082,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 Character adorned with Item in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 Character adorned with Item in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือกตัวละคร 1 ตัวที่ติดตั้งไอเทมในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3099,7 +3099,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 「Applejack」 in your Retirement Area, add it to Hand.",
+    "ability": "[Pre-plan] Choose 1 「Applejack」 in your Retirement Area, add it to Hand.",
     "ability_th": "[Pre-plan] เลือก 「Applejack」 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -3116,7 +3116,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3133,7 +3133,7 @@
     "rarity": "SR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Pre-plan] Choose 1 Character in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Pre-plan] เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -3150,7 +3150,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] Reveal the top card of the Deck, if it is Event, draw 2 cards.",
+    "ability": "[Appear] Reveal the top card of the Deck, if it is Event, draw 2 cards.",
     "ability_th": "[Appear] แสดงการ์ดใบบนสุดของเด็ค ถ้าเป็นอีเวนต์ ให้จั่วการ์ด 2 ใบ"
   },
   {
@@ -3167,7 +3167,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +3 จนจบเทิร์น"
   },
   {
@@ -3184,7 +3184,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือกไอเทม 1 ใบที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -3201,7 +3201,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3218,7 +3218,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Draw 2 cards.",
+    "ability": "[Pre-plan] Draw 2 cards.",
     "ability_th": "[Pre-plan] จั่วการ์ด 2 ใบ"
   },
   {
@@ -3235,7 +3235,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Event with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 Event with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือกอีเวนต์ 1 ใบที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -3252,7 +3252,7 @@
     "rarity": "U",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3269,7 +3269,7 @@
     "rarity": "C",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3286,7 +3286,7 @@
     "rarity": "C",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3303,7 +3303,7 @@
     "rarity": "C",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3320,7 +3320,7 @@
     "rarity": "C",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3338,7 +3338,7 @@
     "rarity": "C",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Appear] Reveal the top card of the Deck, put it at the top or the bottom of the Deck.",
+    "ability": "[Appear] Reveal the top card of the Deck, put it at the top or the bottom of the Deck.",
     "ability_th": "[Appear] แสดงการ์ดใบบนสุดของเด็ค แล้ววางไว้บนสุดหรือล่างสุดของเด็ค"
   },
   {
@@ -3354,7 +3354,7 @@
     "story_title": "Searching for Elements of Harmony",
     "story_subtitle": "Consulting the Guide",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -3370,7 +3370,7 @@
     "story_title": "Searching for Elements of Harmony",
     "story_subtitle": "Through the Everfree Forest",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, draw 2 cards, discard 1 card.",
+    "ability": "When promoted to this stage, draw 2 cards, discard 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -3386,7 +3386,7 @@
     "story_title": "Searching for Elements of Harmony",
     "story_subtitle": "Facing Nightmare Moon",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 Event in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 Event in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกอีเวนต์ 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -3402,7 +3402,7 @@
     "story_title": "Searching for Elements of Harmony",
     "story_subtitle": "Igniting the Sixth Element",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -3416,7 +3416,7 @@
     "rarity": "SPR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "Choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Twilight Sparkle」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3430,7 +3430,7 @@
     "rarity": "SPR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "Draw 2 cards.",
+    "ability": "Draw 2 cards.",
     "ability_th": "จั่วการ์ด 2 ใบ"
   },
   {
@@ -3444,7 +3444,7 @@
     "rarity": "SPR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "Choose 1 Character in your Adventure Area, it won't Retire in Contact until the end of turn.",
+    "ability": "Choose 1 Character in your Adventure Area, it won't Retire in Contact until the end of turn.",
     "ability_th": "เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นจะไม่ถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการจนจบเทิร์น"
   },
   {
@@ -3458,7 +3458,7 @@
     "rarity": "SPR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "Only adorn 「Twilight Sparkle」. Characters next to adorned Character get +1 Inspiration.",
+    "ability": "Only adorn 「Twilight Sparkle」. Characters next to adorned Character get +1 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Twilight Sparkle」 ตัวละครที่อยู่ติดกับตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -3475,7 +3475,7 @@
     "rarity": "SR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Owlowiscious」 in your Adventure Area, choose 1 Character with Inspiration 5 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Appear] If there is any 「Owlowiscious」 in your Adventure Area, choose 1 Character with Inspiration 5 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Appear] ถ้ามี 「Owlowiscious」 อยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 5 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -3493,7 +3493,7 @@
     "rarity": "SR",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Twilight Sparkle」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Twilight Sparkle」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3510,7 +3510,7 @@
     "rarity": "U",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Appear] This Character gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] This Character gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3527,7 +3527,7 @@
     "rarity": "U",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3544,7 +3544,7 @@
     "rarity": "U",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 2 cards, discard 1 card.",
+    "ability": "[Farewell] Draw 2 cards, discard 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -3561,7 +3561,7 @@
     "rarity": "U",
     "deck": "SD01A",
     "story_stage": null,
-    "ability_en": "[Appear] Discard 1 card, draw 1 card.",
+    "ability": "[Appear] Discard 1 card, draw 1 card.",
     "ability_th": "[Appear] ทิ้ง 1 ใบ แล้วจั่วการ์ด 1 ใบ"
   },
   {
@@ -3578,7 +3578,7 @@
     "rarity": "C",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Adventure] While in Rival's turn, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While in Rival's turn, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่อยู่ในเทิร์นของฝ่ายตรงข้าม ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -3595,7 +3595,7 @@
     "rarity": "C",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3612,7 +3612,7 @@
     "rarity": "C",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3629,7 +3629,7 @@
     "rarity": "C",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3647,7 +3647,7 @@
     "rarity": "C",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3663,7 +3663,7 @@
     "story_title": "Dragonshy",
     "story_subtitle": "Ominous Black Smoke",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -3679,7 +3679,7 @@
     "story_title": "Dragonshy",
     "story_subtitle": "Towards the Cliff",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3695,7 +3695,7 @@
     "story_title": "Dragonshy",
     "story_subtitle": "Over the Gorge",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 「Pet」 in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 「Pet」 in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Pet」 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -3711,7 +3711,7 @@
     "story_title": "Dragonshy",
     "story_subtitle": "Facing the Dragon",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -3725,7 +3725,7 @@
     "rarity": "SPR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Fluttershy」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3739,7 +3739,7 @@
     "rarity": "SPR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -3753,7 +3753,7 @@
     "rarity": "SPR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "All 「Pet」 in your Adventure Area get +2 Inspiration until the end of turn.",
+    "ability": "All 「Pet」 in your Adventure Area get +2 Inspiration until the end of turn.",
     "ability_th": "「Pet」 ทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -3767,7 +3767,7 @@
     "rarity": "SPR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "Only adorn 「Fluttershy」. Adorned Character gets +1 Inspiration for each Character in your Adventure Area.",
+    "ability": "Only adorn 「Fluttershy」. Adorned Character gets +1 Inspiration for each Character in your Adventure Area.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Fluttershy」 ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +1 ต่อตัวละคร 1 ตัวในโซนผจญภัยของคุณ"
   },
   {
@@ -3784,7 +3784,7 @@
     "rarity": "SR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any 「Angel」 in your Adventure Area, draw 1 card.",
+    "ability": "[Appear] If there is any 「Angel」 in your Adventure Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามี 「Angel」 อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -3802,7 +3802,7 @@
     "rarity": "SR",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Fluttershy」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any 「Fluttershy」 in your Adventure Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Fluttershy」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -3819,7 +3819,7 @@
     "rarity": "U",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Appear] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Appear] เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -3836,7 +3836,7 @@
     "rarity": "U",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3854,7 +3854,7 @@
     "rarity": "U",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3872,7 +3872,7 @@
     "rarity": "U",
     "deck": "SD01B",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any 「Fluttershy」 in your Adventure Area, this Character gets +2 Inspiration in Rival's turn.",
+    "ability": "[Adventure] While there is any 「Fluttershy」 in your Adventure Area, this Character gets +2 Inspiration in Rival's turn.",
     "ability_th": "[Adventure] ขณะที่มี 「Fluttershy」 อยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของฝ่ายตรงข้าม"
   },
   {
@@ -3889,7 +3889,7 @@
     "rarity": "C",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Adventure] At the end of your turn, if there is any [Gummy] in your Adventure Area, draw 1 card.",
+    "ability": "[Adventure] At the end of your turn, if there is any [Gummy] in your Adventure Area, draw 1 card.",
     "ability_th": "[Adventure] เมื่อสิ้นสุดเทิร์นของคุณ ถ้ามี [Gummy] อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -3906,7 +3906,7 @@
     "rarity": "C",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3923,7 +3923,7 @@
     "rarity": "C",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3941,7 +3941,7 @@
     "rarity": "C",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3959,7 +3959,7 @@
     "rarity": "C",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -3975,7 +3975,7 @@
     "story_title": "Feeling Pinkie Keen",
     "story_subtitle": "The Prediction",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -3991,7 +3991,7 @@
     "story_title": "Feeling Pinkie Keen",
     "story_subtitle": "The Giant Hydra",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -2 จนจบเทิร์น"
   },
   {
@@ -4007,7 +4007,7 @@
     "story_title": "Feeling Pinkie Keen",
     "story_subtitle": "Crisis Averted",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 Event in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 Event in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกอีเวนต์ 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -4023,7 +4023,7 @@
     "story_title": "Feeling Pinkie Keen",
     "story_subtitle": "The Real Doozy",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -4037,7 +4037,7 @@
     "rarity": "SPR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "Draw 2 cards, discard 1 card.",
+    "ability": "Draw 2 cards, discard 1 card.",
     "ability_th": "จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -4051,7 +4051,7 @@
     "rarity": "SPR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "While in your turn, adorned Character gets +1 Inspiration.",
+    "ability": "While in your turn, adorned Character gets +1 Inspiration.",
     "ability_th": "ขณะที่อยู่ในเทิร์นของคุณ ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -4065,7 +4065,7 @@
     "rarity": "SPR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "While in Rival's turn, adorned Character gets +2 Inspiration.",
+    "ability": "While in Rival's turn, adorned Character gets +2 Inspiration.",
     "ability_th": "ขณะที่อยู่ในเทิร์นของฝ่ายตรงข้าม ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -4079,7 +4079,7 @@
     "rarity": "SPR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "Only adorn [Pinkie Pie]. Adorned Character gets +1 Inspiration.",
+    "ability": "Only adorn [Pinkie Pie]. Adorned Character gets +1 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ [Pinkie Pie] ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -4096,7 +4096,7 @@
     "rarity": "SR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any Character adorned with Item in your Adventure Area, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While there is any Character adorned with Item in your Adventure Area, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีตัวละครที่ติดตั้งไอเทมอยู่ในโซนผจญภัยของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -4114,7 +4114,7 @@
     "rarity": "SR",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card, discard 1 card.",
+    "ability": "[Farewell] Draw 1 card, discard 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -4131,7 +4131,7 @@
     "rarity": "U",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4148,7 +4148,7 @@
     "rarity": "U",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any Item in your Retirement Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any Item in your Retirement Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มีไอเทมอยู่ในโซนพักผ่อนของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -4165,7 +4165,7 @@
     "rarity": "U",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 Character in Rival's Adventure Area, it gets -2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -2 จนจบเทิร์น"
   },
   {
@@ -4183,7 +4183,7 @@
     "rarity": "U",
     "deck": "SD01C",
     "story_stage": null,
-    "ability_en": "[Adventure] While in your turn, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While in your turn, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่อยู่ในเทิร์นของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -4200,7 +4200,7 @@
     "rarity": "C",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Farewell] If there is any untapped Scene in your Scene Area, draw 2 cards.",
+    "ability": "[Farewell] If there is any untapped Scene in your Scene Area, draw 2 cards.",
     "ability_th": "[Farewell] ถ้ามีการ์ดฉากสถานะตั้งอยู่ในโซนฉากของคุณ ให้จั่วการ์ด 2 ใบ"
   },
   {
@@ -4217,7 +4217,7 @@
     "rarity": "C",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4234,7 +4234,7 @@
     "rarity": "C",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4251,7 +4251,7 @@
     "rarity": "C",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4269,7 +4269,7 @@
     "rarity": "C",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4285,7 +4285,7 @@
     "story_title": "Applebuck Season",
     "story_subtitle": "Harvest of One",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -4301,7 +4301,7 @@
     "story_title": "Applebuck Season",
     "story_subtitle": "Stubborn Applejack",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 Scene in your Scene Area, untap it.",
+    "ability": "When promoted to this stage, choose 1 Scene in your Scene Area, untap it.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกการ์ดฉาก 1 ใบในโซนฉากของคุณ ตั้งการ์ดนั้น"
   },
   {
@@ -4317,7 +4317,7 @@
     "story_title": "Applebuck Season",
     "story_subtitle": "Asking for Help",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 「Applejack」 in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 「Applejack」 in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก 「Applejack」 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -4333,7 +4333,7 @@
     "story_title": "Applebuck Season",
     "story_subtitle": "Appreciation and Apology",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -4347,7 +4347,7 @@
     "rarity": "SPR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "Choose 1 「Applejack」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Applejack」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Applejack」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4361,7 +4361,7 @@
     "rarity": "SPR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "Choose 1 「Applejack」 and 1 「Apple Bloom」 in your Adventure Area, they get +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Applejack」 and 1 「Apple Bloom」 in your Adventure Area, they get +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Applejack」 1 ตัวและ 「Apple Bloom」 1 ตัวในโซนผจญภัยของคุณ ตัวละครเหล่านั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4375,7 +4375,7 @@
     "rarity": "SPR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "Only use when there are 5 or more Scenes in your Scene Area. Draw 2 cards.",
+    "ability": "Only use when there are 5 or more Scenes in your Scene Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีการ์ดฉาก 5 ใบขึ้นไปในโซนฉากของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -4389,7 +4389,7 @@
     "rarity": "SPR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "Only adorn 「Applejack」. While in your turn, adorned Character gets +3 Inspiration.",
+    "ability": "Only adorn 「Applejack」. While in your turn, adorned Character gets +3 Inspiration.",
     "ability_th": "ติดตั้งได้เฉพาะ 「Applejack」 ขณะที่อยู่ในเทิร์นของคุณ ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +3"
   },
   {
@@ -4406,7 +4406,7 @@
     "rarity": "SR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Farewell] Reveal the top 2 cards of the Deck, choose 1 「Applejack」 or 「Apple Bloom」 from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "[Farewell] Reveal the top 2 cards of the Deck, choose 1 「Applejack」 or 「Apple Bloom」 from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "[Farewell] แสดงการ์ด 2 ใบบนสุดของเด็ค เลือก 「Applejack」 หรือ 「Apple Bloom」 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -4424,7 +4424,7 @@
     "rarity": "SR",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Applejack」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Applejack」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Applejack」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -4441,7 +4441,7 @@
     "rarity": "U",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any untapped Scene in your Scene Area, this Character gets +2 Inspiration.",
+    "ability": "[Adventure] While there is any untapped Scene in your Scene Area, this Character gets +2 Inspiration.",
     "ability_th": "[Adventure] ขณะที่มีการ์ดฉากสถานะตั้งอยู่ในโซนฉากของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -4458,7 +4458,7 @@
     "rarity": "U",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4475,7 +4475,7 @@
     "rarity": "U",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Winona」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Winona」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Winona」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4493,7 +4493,7 @@
     "rarity": "U",
     "deck": "SD01D",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 Scene in your Scene Area, untap it.",
+    "ability": "[Adventure] [Tap] Choose 1 Scene in your Scene Area, untap it.",
     "ability_th": "[Adventure] [Tap] เลือกการ์ดฉาก 1 ใบในโซนฉากของคุณ ตั้งการ์ดนั้น"
   },
   {
@@ -4510,7 +4510,7 @@
     "rarity": "C",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Appear] This Character gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] This Character gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4527,7 +4527,7 @@
     "rarity": "C",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4544,7 +4544,7 @@
     "rarity": "C",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4561,7 +4561,7 @@
     "rarity": "C",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4579,7 +4579,7 @@
     "rarity": "C",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4595,7 +4595,7 @@
     "story_title": "The Best Young Flyer",
     "story_subtitle": "Anxious Rainbow Dash",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -4611,7 +4611,7 @@
     "story_title": "The Best Young Flyer",
     "story_subtitle": "Sonic RainBoom",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, choose 1 [Rainbow Dash] in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 [Rainbow Dash] in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก [Rainbow Dash] 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -4627,7 +4627,7 @@
     "story_title": "The Best Young Flyer",
     "story_subtitle": "The Competition",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "When promoted to this stage, choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -4643,7 +4643,7 @@
     "story_title": "The Best Young Flyer",
     "story_subtitle": "Grand Prize",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -4657,7 +4657,7 @@
     "rarity": "SPR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก [Rainbow Dash] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4671,7 +4671,7 @@
     "rarity": "SPR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "Draw 1 card, choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "Draw 1 card, choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "จั่วการ์ด 1 ใบ จากนั้นเลือก [Rainbow Dash] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -4685,7 +4685,7 @@
     "rarity": "SPR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Inspiration 3 or less in Rival's Adventure Area to Retire.",
+    "ability": "Choose 1 Character with Inspiration 3 or less in Rival's Adventure Area to Retire.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 3 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -4699,7 +4699,7 @@
     "rarity": "SPR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "While in your turn, adorned Character gets +2 Inspiration.",
+    "ability": "While in your turn, adorned Character gets +2 Inspiration.",
     "ability_th": "ขณะที่อยู่ในเทิร์นของคุณ ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +2"
   },
   {
@@ -4716,7 +4716,7 @@
     "rarity": "SR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any [Tank] in your Adventure Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Appear] If there is any [Tank] in your Adventure Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Appear] ถ้ามี [Tank] อยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 4 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -4734,7 +4734,7 @@
     "rarity": "SR",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap], choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap], choose 1 [Rainbow Dash] in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก [Rainbow Dash] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -4751,7 +4751,7 @@
     "rarity": "U",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Adventure] When this Character Intervenes the Plan, draw 1 card.",
+    "ability": "[Adventure] When this Character Intervenes the Plan, draw 1 card.",
     "ability_th": "[Adventure] เมื่อตัวละครนี้ขัดขวางแผนการ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -4768,7 +4768,7 @@
     "rarity": "U",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4785,7 +4785,7 @@
     "rarity": "U",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Character with Inspiration 1 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 1 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 1 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -4803,7 +4803,7 @@
     "rarity": "U",
     "deck": "SD01E",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 [Rainbow Dash] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก [Rainbow Dash] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -4820,7 +4820,7 @@
     "rarity": "C",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -4837,7 +4837,7 @@
     "rarity": "C",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4854,7 +4854,7 @@
     "rarity": "C",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4871,7 +4871,7 @@
     "rarity": "C",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4889,7 +4889,7 @@
     "rarity": "C",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -4905,7 +4905,7 @@
     "story_title": "A Dog and Pony Show",
     "story_subtitle": "Hunt for Gems",
     "story_stage": "I",
-    "ability_en": "When promoted to this stage, draw 1 card.",
+    "ability": "When promoted to this stage, draw 1 card.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ จั่วการ์ด 1 ใบ"
   },
   {
@@ -4921,7 +4921,7 @@
     "story_title": "A Dog and Pony Show",
     "story_subtitle": "Rarity Gets Ponynapped",
     "story_stage": "II",
-    "ability_en": "When promoted to this stage, all [Rarity] in your Adventure Area get +1 Inspiration until the end of turn.",
+    "ability": "When promoted to this stage, all [Rarity] in your Adventure Area get +1 Inspiration until the end of turn.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ [Rarity] ทั้งหมดในโซนผจญภัยของคุณได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -4937,7 +4937,7 @@
     "story_title": "A Dog and Pony Show",
     "story_subtitle": "Outwitting the Hounds",
     "story_stage": "III",
-    "ability_en": "When promoted to this stage, choose 1 [Rarity] in your Retirement Area, add it to Hand.",
+    "ability": "When promoted to this stage, choose 1 [Rarity] in your Retirement Area, add it to Hand.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ เลือก [Rarity] 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -4953,7 +4953,7 @@
     "story_title": "A Dog and Pony Show",
     "story_subtitle": "Back with Full Load",
     "story_stage": "IV",
-    "ability_en": "When promoted to this stage, you win the game.",
+    "ability": "When promoted to this stage, you win the game.",
     "ability_th": "เมื่อเลื่อนขึ้นมาถึงสเตจนี้ คุณชนะเกม"
   },
   {
@@ -4967,7 +4967,7 @@
     "rarity": "SPR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "Choose 1 [Rarity] with Inspiration 3 or less in your Adventure Area, it won't Retire in Contact until the end of turn.",
+    "ability": "Choose 1 [Rarity] with Inspiration 3 or less in your Adventure Area, it won't Retire in Contact until the end of turn.",
     "ability_th": "เลือก [Rarity] 1 ตัวที่มีค่าพลังจินตนาการ 3 หรือน้อยกว่าในโซนผจญภัยของคุณ ตัวละครนั้นจะไม่ถูกนำออกจากสนามในการแลกเปลี่ยนจินตนาการจนจบเทิร์น"
   },
   {
@@ -4981,7 +4981,7 @@
     "rarity": "SPR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "Only use when there is any [Rarity] in your Adventure Area. Draw 1 card.",
+    "ability": "Only use when there is any [Rarity] in your Adventure Area. Draw 1 card.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี [Rarity] อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 1 ใบ"
   },
   {
@@ -4995,7 +4995,7 @@
     "rarity": "SPR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "เลือกอีเวนต์ 1 ใบที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -5009,7 +5009,7 @@
     "rarity": "SPR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "While in Rival's turn, adorned Character gets +1 Inspiration.",
+    "ability": "While in Rival's turn, adorned Character gets +1 Inspiration.",
     "ability_th": "ขณะที่อยู่ในเทิร์นของฝ่ายตรงข้าม ตัวละครที่ติดตั้งไอเทมได้รับค่าพลังจินตนาการ +1"
   },
   {
@@ -5026,7 +5026,7 @@
     "rarity": "SR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Event or Item in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 Event or Item in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือกอีเวนต์หรือไอเทม 1 ใบในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -5044,7 +5044,7 @@
     "rarity": "SR",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก [Rarity] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5061,7 +5061,7 @@
     "rarity": "U",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Farewell] Draw 1 card.",
+    "ability": "[Farewell] Draw 1 card.",
     "ability_th": "[Farewell] จั่วการ์ด 1 ใบ"
   },
   {
@@ -5078,7 +5078,7 @@
     "rarity": "U",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "",
+    "ability": "",
     "ability_th": ""
   },
   {
@@ -5095,7 +5095,7 @@
     "rarity": "U",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 Event with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือกอีเวนต์ 1 ใบที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -5113,7 +5113,7 @@
     "rarity": "U",
     "deck": "SD01F",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 [Rarity] in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก [Rarity] 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5130,7 +5130,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Event in your Retirement Area, choose 1 Character in Rival's Adventure Area, it gets -3 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any Event in your Retirement Area, choose 1 Character in Rival's Adventure Area, it gets -3 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -3 จนจบเทิร์น"
   },
   {
@@ -5147,7 +5147,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Appear] Choose 1 「Pet」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Appear] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5164,7 +5164,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Reveal the top 3 cards of your Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
+    "ability": "[Appear] Reveal the top 3 cards of your Deck, choose 1 Item from them, add it to Hand, move the rest to Retirement Area.",
     "ability_th": "[Appear] แสดงการ์ด 3 ใบบนสุดของเด็ค เลือกไอเทม 1 ใบจากนั้น นำการ์ดนั้นขึ้นมือ แล้วนำที่เหลือไปยังโซนพักผ่อน"
   },
   {
@@ -5181,7 +5181,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] If there is any untapped Scene in your Scene Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] If there is any untapped Scene in your Scene Area, choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] ถ้ามีการ์ดฉากสถานะตั้งอยู่ในโซนฉากของคุณ เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 4 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -5198,7 +5198,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
+    "ability": "[Farewell] Choose 1 Character with Inspiration 2 or less in Rival's Adventure Area to Retire.",
     "ability_th": "[Farewell] เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 2 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -5215,7 +5215,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 「Rarity」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Farewell] Choose 1 「Rarity」 with Cost of Force of Harmony 3 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Farewell] เลือก 「Rarity」 1 ใบที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -5232,7 +5232,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] While there is any Event in your Retirement Area, this Character gets +2 Inspiration in your turn.",
+    "ability": "[Adventure] While there is any Event in your Retirement Area, this Character gets +2 Inspiration in your turn.",
     "ability_th": "[Adventure] ขณะที่มีอีเวนต์อยู่ในโซนพักผ่อนของคุณ ตัวละครนี้ได้รับค่าพลังจินตนาการ +2 ในเทิร์นของคุณ"
   },
   {
@@ -5249,7 +5249,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Farewell] Choose 1 「Pet」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Farewell] Choose 1 「Pet」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Farewell] เลือก 「Pet」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -5266,7 +5266,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
+    "ability": "[Adventure] [Tap] Choose 1 Item with Cost of Force of Harmony 2 or less in your Retirement Area, add it to Hand.",
     "ability_th": "[Adventure] [Tap] เลือกไอเทม 1 ใบที่มีค่าพลังมิตรภาพ 2 หรือน้อยกว่าในโซนพักผ่อนของคุณ นำการ์ดนั้นขึ้นมือ"
   },
   {
@@ -5283,7 +5283,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] Choose 2 Scenes in your Scene Area, untap them.",
+    "ability": "[Appear] Choose 2 Scenes in your Scene Area, untap them.",
     "ability_th": "[Appear] เลือกการ์ดฉาก 2 ใบในโซนฉากของคุณ ตั้งการ์ดเหล่านั้น"
   },
   {
@@ -5300,7 +5300,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 other 「Pegasus」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 other 「Pegasus」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก 「Pegasus」 อื่น 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5317,7 +5317,7 @@
     "rarity": "※CR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any other 「Rarity」 in your Adventure Area, choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any other 「Rarity」 in your Adventure Area, choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามี 「Rarity」 อื่นอยู่ในโซนผจญภัยของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -5334,7 +5334,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Event in your Retirement Area, choose 1 「Spike」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
+    "ability": "[Appear] If there is any Event in your Retirement Area, choose 1 「Spike」 in your Adventure Area, it gets +1 Inspiration until the end of turn.",
     "ability_th": "[Appear] ถ้ามีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือก 「Spike」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 จนจบเทิร์น"
   },
   {
@@ -5351,7 +5351,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] If there is any 「Pet」 in your Adventure Area, draw 2 cards.",
+    "ability": "[Pre-plan] If there is any 「Pet」 in your Adventure Area, draw 2 cards.",
     "ability_th": "[Pre-plan] ถ้ามี 「Pet」 อยู่ในโซนผจญภัยของคุณ ให้จั่วการ์ด 2 ใบ"
   },
   {
@@ -5368,7 +5368,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Appear] If there is any Item in your Retirement Area, draw 1 card.",
+    "ability": "[Appear] If there is any Item in your Retirement Area, draw 1 card.",
     "ability_th": "[Appear] ถ้ามีไอเทมอยู่ในโซนพักผ่อนของคุณ ให้จั่วการ์ด 1 ใบ"
   },
   {
@@ -5385,7 +5385,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Pre-plan] Draw 1 card.",
+    "ability": "[Pre-plan] Draw 1 card.",
     "ability_th": "[Pre-plan] จั่วการ์ด 1 ใบ"
   },
   {
@@ -5402,7 +5402,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "While there is no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
+    "ability": "While there is no Character in your Adventure Area, this Character gets -1 Cost of Force of Harmony when played from Hand.",
     "ability_th": "ขณะที่ไม่มีตัวละครอยู่ในโซนผจญภัยของคุณ ตัวละครนี้มีค่าพลังมิตรภาพลดลง 1 เมื่อเล่นจากมือ"
   },
   {
@@ -5419,7 +5419,7 @@
     "rarity": "※GR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "[Adventure] [Tap] Choose 1 「Rarity」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "[Adventure] [Tap] Choose 1 「Rarity」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "[Adventure] [Tap] เลือก 「Rarity」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5436,7 +5436,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5453,7 +5453,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5470,7 +5470,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5487,7 +5487,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5504,7 +5504,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5521,7 +5521,7 @@
     "rarity": "※RR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -5535,7 +5535,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Rainbow Dash」 with Cost of Force of Harmony 3 or less in your Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there is any 「Rainbow Dash」 with Cost of Force of Harmony 3 or less in your Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Rainbow Dash」 ที่มีค่าพลังมิตรภาพ 3 หรือน้อยกว่าอยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ"
   },
   {
@@ -5549,7 +5549,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
+    "ability": "Choose 1 Character with Inspiration 4 or less in Rival's Adventure Area to Retire.",
     "ability_th": "เลือกตัวละคร 1 ตัวที่มีค่าพลังจินตนาการ 4 หรือน้อยกว่าในโซนผจญภัยของฝ่ายตรงข้าม นำออกจากสนาม"
   },
   {
@@ -5563,7 +5563,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 1 card.",
+    "ability": "Only use when there is any 「Twilight Sparkle」 or 「Spike」 in your Adventure Area. Draw 1 card.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Twilight Sparkle」 หรือ 「Spike」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 1 ใบ"
   },
   {
@@ -5577,7 +5577,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Pinkie Pie」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Pinkie Pie」 in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Pinkie Pie」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5591,7 +5591,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there are 2 or more Characters in Rival's Adventure Area. Draw 2 cards.",
+    "ability": "Only use when there are 2 or more Characters in Rival's Adventure Area. Draw 2 cards.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีตัวละคร 2 ตัวขึ้นไปในโซนผจญภัยของฝ่ายตรงข้าม จั่วการ์ด 2 ใบ"
   },
   {
@@ -5605,7 +5605,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
+    "ability": "Choose 1 Character in Rival's Adventure Area, it gets -1 Inspiration until the end of turn.",
     "ability_th": "เลือกตัวละคร 1 ตัวในโซนผจญภัยของฝ่ายตรงข้าม ตัวละครนั้นสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -5619,7 +5619,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "All Characters in Rival's Adventure Area get -1 Inspiration until the end of turn.",
+    "ability": "All Characters in Rival's Adventure Area get -1 Inspiration until the end of turn.",
     "ability_th": "ตัวละครทั้งหมดในโซนผจญภัยของฝ่ายตรงข้ามสูญเสียค่าพลังจินตนาการ -1 จนจบเทิร์น"
   },
   {
@@ -5633,7 +5633,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Applejack」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
+    "ability": "Choose 1 「Applejack」 in your Adventure Area, it gets +3 Inspiration until the end of turn.",
     "ability_th": "เลือก 「Applejack」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +3 จนจบเทิร์น"
   },
   {
@@ -5647,7 +5647,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +1 Inspiration for each Character in your Adventure Area.",
+    "ability": "Choose 1 「Fluttershy」 in your Adventure Area, it gets +1 Inspiration for each Character in your Adventure Area.",
     "ability_th": "เลือก 「Fluttershy」 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +1 ต่อตัวละคร 1 ตัวในโซนผจญภัยของคุณ"
   },
   {
@@ -5661,7 +5661,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any Event in your Retirement Area. Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
+    "ability": "Only use when there is any Event in your Retirement Area. Choose 1 Character in your Adventure Area, it gets +2 Inspiration until the end of turn.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมีอีเวนต์อยู่ในโซนพักผ่อนของคุณ เลือกตัวละคร 1 ตัวในโซนผจญภัยของคุณ ตัวละครนั้นได้รับค่าพลังจินตนาการ +2 จนจบเทิร์น"
   },
   {
@@ -5675,7 +5675,7 @@
     "rarity": "※SPR",
     "deck": "BP01",
     "story_stage": null,
-    "ability_en": "Only use when there is any 「Twilight Sparkle」 in your Adventure Area. Draw 2 cards, discard 1 card.",
+    "ability": "Only use when there is any 「Twilight Sparkle」 in your Adventure Area. Draw 2 cards, discard 1 card.",
     "ability_th": "ใช้ได้เฉพาะเมื่อมี 「Twilight Sparkle」 อยู่ในโซนผจญภัยของคุณ จั่วการ์ด 2 ใบ แล้วทิ้ง 1 ใบ"
   },
   {
@@ -5691,7 +5691,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5707,7 +5707,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5723,7 +5723,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5739,7 +5739,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5755,7 +5755,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5771,7 +5771,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5787,7 +5787,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5803,7 +5803,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5819,7 +5819,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5835,7 +5835,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5851,7 +5851,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5867,7 +5867,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5883,7 +5883,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5899,7 +5899,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Twilight Sparkle」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Twilight Sparkle」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5915,7 +5915,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5931,7 +5931,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Fluttershy」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Fluttershy」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5947,7 +5947,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5963,7 +5963,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Pinkie Pie」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Pinkie Pie」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5979,7 +5979,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -5995,7 +5995,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Applejack」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Applejack」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -6011,7 +6011,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -6027,7 +6027,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rainbow Dash」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rainbow Dash」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -6043,7 +6043,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -6059,7 +6059,7 @@
     "rarity": "※ER",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
+    "ability": "[Inspo Boost] Your 「Rarity」 gets +1 Inspiration until the end of this Contact.",
     "ability_th": "[Inspo Boost] 「Rarity」 ของคุณได้รับค่าพลังจินตนาการ +1 จนจบการแลกเปลี่ยนจินตนาการนี้"
   },
   {
@@ -6076,7 +6076,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -6093,7 +6093,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -6110,7 +6110,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -6127,7 +6127,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -6144,7 +6144,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   },
   {
@@ -6161,7 +6161,7 @@
     "rarity": "※RR",
     "deck": "SD01",
     "story_stage": null,
-    "ability_en": "(Shining Ruby Rare art card)",
+    "ability": "(Shining Ruby Rare art card)",
     "ability_th": "(Shining Ruby Rare art card)"
   }
 ]
